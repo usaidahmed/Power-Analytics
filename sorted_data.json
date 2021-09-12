@@ -1,0 +1,4146 @@
+{
+    "5/9/2019": {
+        "": "0",
+        "Date": "5/9/2019",
+        "Average Power": "7033.029836",
+        "Maximum Power": "7229.55",
+        "Minimum Power": "6866.99",
+        "Total Energy Consumed": "1287044.46"
+    },
+    "5/10/2019": {
+        "": "1",
+        "Date": "5/10/2019",
+        "Average Power": "8907.537979",
+        "Maximum Power": "16202.88",
+        "Minimum Power": "6866.99",
+        "Total Energy Consumed": "25431020.93"
+    },
+    "5/11/2019": {
+        "": "2",
+        "Date": "5/11/2019",
+        "Average Power": "8494.311218",
+        "Maximum Power": "11784.66",
+        "Minimum Power": "6833.81",
+        "Total Energy Consumed": "23919980.39"
+    },
+    "5/12/2019": {
+        "": "3",
+        "Date": "5/12/2019",
+        "Average Power": "8334.529214",
+        "Maximum Power": "11616.09",
+        "Minimum Power": "5440.37",
+        "Total Energy Consumed": "23853422.61"
+    },
+    "5/13/2019": {
+        "": "4",
+        "Date": "5/13/2019",
+        "Average Power": "9768.640628",
+        "Maximum Power": "16617.72",
+        "Minimum Power": "6950.04",
+        "Total Energy Consumed": "28016461.32"
+    },
+    "5/14/2019": {
+        "": "5",
+        "Date": "5/14/2019",
+        "Average Power": "9252.739436",
+        "Maximum Power": "14194.65",
+        "Minimum Power": "4713.3",
+        "Total Energy Consumed": "26435076.57"
+    },
+    "5/15/2019": {
+        "": "6",
+        "Date": "5/15/2019",
+        "Average Power": "9380.184001",
+        "Maximum Power": "15648.11",
+        "Minimum Power": "6017.52",
+        "Total Energy Consumed": "26817946.06"
+    },
+    "5/16/2019": {
+        "": "7",
+        "Date": "5/16/2019",
+        "Average Power": "9178.266477",
+        "Maximum Power": "15473.66",
+        "Minimum Power": "5628.43",
+        "Total Energy Consumed": "26231485.59"
+    },
+    "5/17/2019": {
+        "": "8",
+        "Date": "5/17/2019",
+        "Average Power": "9135.478948",
+        "Maximum Power": "16271.9",
+        "Minimum Power": "5665.49",
+        "Total Energy Consumed": "26136605.27"
+    },
+    "5/18/2019": {
+        "": "9",
+        "Date": "5/18/2019",
+        "Average Power": "8554.121619",
+        "Maximum Power": "11365.95",
+        "Minimum Power": "5344.12",
+        "Total Energy Consumed": "24567437.29"
+    },
+    "5/19/2019": {
+        "": "10",
+        "Date": "5/19/2019",
+        "Average Power": "8268.691011",
+        "Maximum Power": "10677.52",
+        "Minimum Power": "5548.72",
+        "Total Energy Consumed": "23722874.51"
+    },
+    "5/20/2019": {
+        "": "11",
+        "Date": "5/20/2019",
+        "Average Power": "9477.107813",
+        "Maximum Power": "14053.42",
+        "Minimum Power": "7095.23",
+        "Total Energy Consumed": "26298974.18"
+    },
+    "5/21/2019": {
+        "": "12",
+        "Date": "5/21/2019",
+        "Average Power": "9821.796509",
+        "Maximum Power": "15421.95",
+        "Minimum Power": "7095.23",
+        "Total Energy Consumed": "27687644.36"
+    },
+    "5/22/2019": {
+        "": "13",
+        "Date": "5/22/2019",
+        "Average Power": "9326.281103",
+        "Maximum Power": "14904.47",
+        "Minimum Power": "7095.23",
+        "Total Energy Consumed": "26710469.08"
+    },
+    "5/23/2019": {
+        "": "14",
+        "Date": "5/23/2019",
+        "Average Power": "9067.162657",
+        "Maximum Power": "15029.97",
+        "Minimum Power": "7095.23",
+        "Total Energy Consumed": "26040891.15"
+    },
+    "5/24/2019": {
+        "": "15",
+        "Date": "5/24/2019",
+        "Average Power": "9610.076926",
+        "Maximum Power": "14887.34",
+        "Minimum Power": "7095.23",
+        "Total Energy Consumed": "27542480.47"
+    },
+    "5/25/2019": {
+        "": "16",
+        "Date": "5/25/2019",
+        "Average Power": "8780.649676",
+        "Maximum Power": "12357.96",
+        "Minimum Power": "7095.23",
+        "Total Energy Consumed": "25218025.87"
+    },
+    "5/26/2019": {
+        "": "17",
+        "Date": "5/26/2019",
+        "Average Power": "8528.27337",
+        "Maximum Power": "10938.93",
+        "Minimum Power": "7158.16",
+        "Total Energy Consumed": "24518785.94"
+    },
+    "5/27/2019": {
+        "": "18",
+        "Date": "5/27/2019",
+        "Average Power": "9365.269462",
+        "Maximum Power": "13712.28",
+        "Minimum Power": "7034.55",
+        "Total Energy Consumed": "26307041.92"
+    },
+    "5/28/2019": {
+        "": "19",
+        "Date": "5/28/2019",
+        "Average Power": "9722.415355",
+        "Maximum Power": "15181.79",
+        "Minimum Power": "5559.55",
+        "Total Energy Consumed": "27922776.9"
+    },
+    "5/29/2019": {
+        "": "20",
+        "Date": "5/29/2019",
+        "Average Power": "9252.622224",
+        "Maximum Power": "15317.64",
+        "Minimum Power": "5559.55",
+        "Total Energy Consumed": "26545773.16"
+    },
+    "5/30/2019": {
+        "": "21",
+        "Date": "5/30/2019",
+        "Average Power": "9444.290958",
+        "Maximum Power": "14644.72",
+        "Minimum Power": "5559.55",
+        "Total Energy Consumed": "27114559.34"
+    },
+    "5/31/2019": {
+        "": "22",
+        "Date": "5/31/2019",
+        "Average Power": "9727.112691",
+        "Maximum Power": "14712.11",
+        "Minimum Power": "5537.17",
+        "Total Energy Consumed": "27868177.86"
+    },
+    "6/1/2019": {
+        "": "23",
+        "Date": "6/1/2019",
+        "Average Power": "8892.810035",
+        "Maximum Power": "11605.33",
+        "Minimum Power": "5445.35",
+        "Total Energy Consumed": "25504579.18"
+    },
+    "6/2/2019": {
+        "": "24",
+        "Date": "6/2/2019",
+        "Average Power": "8821.312809",
+        "Maximum Power": "11275.27",
+        "Minimum Power": "7134.76",
+        "Total Energy Consumed": "25343631.7"
+    },
+    "6/3/2019": {
+        "": "25",
+        "Date": "6/3/2019",
+        "Average Power": "9963.686122",
+        "Maximum Power": "15423.58",
+        "Minimum Power": "5700.43",
+        "Total Energy Consumed": "25357581.18"
+    },
+    "6/4/2019": {
+        "": "26",
+        "Date": "6/4/2019",
+        "Average Power": "8887.277956",
+        "Maximum Power": "12019.33",
+        "Minimum Power": "5595.65",
+        "Total Energy Consumed": "25524262.29"
+    },
+    "6/5/2019": {
+        "": "27",
+        "Date": "6/5/2019",
+        "Average Power": "10751.40046",
+        "Maximum Power": "13586.61",
+        "Minimum Power": "7346.31",
+        "Total Energy Consumed": "30867270.71"
+    },
+    "6/6/2019": {
+        "": "28",
+        "Date": "6/6/2019",
+        "Average Power": "9467.477838",
+        "Maximum Power": "13131.05",
+        "Minimum Power": "6589.63",
+        "Total Energy Consumed": "27190596.35"
+    },
+    "6/7/2019": {
+        "": "29",
+        "Date": "6/7/2019",
+        "Average Power": "9168.95154",
+        "Maximum Power": "13232.56",
+        "Minimum Power": "5458.77",
+        "Total Energy Consumed": "26379073.58"
+    },
+    "6/8/2019": {
+        "": "30",
+        "Date": "6/8/2019",
+        "Average Power": "9633.613355",
+        "Maximum Power": "13270.12",
+        "Minimum Power": "5480.41",
+        "Total Energy Consumed": "27677371.17"
+    },
+    "6/9/2019": {
+        "": "31",
+        "Date": "6/9/2019",
+        "Average Power": "8968.165527",
+        "Maximum Power": "12457.16",
+        "Minimum Power": "5607.92",
+        "Total Energy Consumed": "25765539.56"
+    },
+    "6/10/2019": {
+        "": "32",
+        "Date": "6/10/2019",
+        "Average Power": "10813.61037",
+        "Maximum Power": "16892.06",
+        "Minimum Power": "5607.92",
+        "Total Energy Consumed": "31024248.15"
+    },
+    "6/11/2019": {
+        "": "33",
+        "Date": "6/11/2019",
+        "Average Power": "10327.53788",
+        "Maximum Power": "17181.33",
+        "Minimum Power": "5542.18",
+        "Total Energy Consumed": "29640033.71"
+    },
+    "6/12/2019": {
+        "": "34",
+        "Date": "6/12/2019",
+        "Average Power": "10538.79703",
+        "Maximum Power": "17780.63",
+        "Minimum Power": "5658.18",
+        "Total Energy Consumed": "30267425.06"
+    },
+    "6/13/2019": {
+        "": "35",
+        "Date": "6/13/2019",
+        "Average Power": "10796.43545",
+        "Maximum Power": "17992.79",
+        "Minimum Power": "6010.33",
+        "Total Energy Consumed": "30985769.73"
+    },
+    "6/14/2019": {
+        "": "36",
+        "Date": "6/14/2019",
+        "Average Power": "10907.21702",
+        "Maximum Power": "17213.91",
+        "Minimum Power": "5998.19",
+        "Total Energy Consumed": "31325527.28"
+    },
+    "6/15/2019": {
+        "": "37",
+        "Date": "6/15/2019",
+        "Average Power": "9604.417714",
+        "Maximum Power": "13632.74",
+        "Minimum Power": "7312.88",
+        "Total Energy Consumed": "27516656.75"
+    },
+    "6/16/2019": {
+        "": "38",
+        "Date": "6/16/2019",
+        "Average Power": "9676.34178",
+        "Maximum Power": "13252.43",
+        "Minimum Power": "6989.28",
+        "Total Energy Consumed": "27780777.25"
+    },
+    "6/17/2019": {
+        "": "39",
+        "Date": "6/17/2019",
+        "Average Power": "11179.64571",
+        "Maximum Power": "17072.05",
+        "Minimum Power": "6895.27",
+        "Total Energy Consumed": "32141481.43"
+    },
+    "6/18/2019": {
+        "": "40",
+        "Date": "6/18/2019",
+        "Average Power": "10930.81142",
+        "Maximum Power": "16455.98",
+        "Minimum Power": "6895.27",
+        "Total Energy Consumed": "31283982.27"
+    },
+    "6/19/2019": {
+        "": "41",
+        "Date": "6/19/2019",
+        "Average Power": "10588.60979",
+        "Maximum Power": "19295.18",
+        "Minimum Power": "5097.46",
+        "Total Energy Consumed": "29330449.12"
+    },
+    "6/20/2019": {
+        "": "42",
+        "Date": "6/20/2019",
+        "Average Power": "10285.17397",
+        "Maximum Power": "16782.42",
+        "Minimum Power": "5646.24",
+        "Total Energy Consumed": "28819057.45"
+    },
+    "6/21/2019": {
+        "": "43",
+        "Date": "6/21/2019",
+        "Average Power": "10457.5449",
+        "Maximum Power": "17351.98",
+        "Minimum Power": "5646.24",
+        "Total Energy Consumed": "30002696.32"
+    },
+    "6/22/2019": {
+        "": "44",
+        "Date": "6/22/2019",
+        "Average Power": "9041.136362",
+        "Maximum Power": "12556.47",
+        "Minimum Power": "5882.64",
+        "Total Energy Consumed": "25948061.36"
+    },
+    "6/23/2019": {
+        "": "45",
+        "Date": "6/23/2019",
+        "Average Power": "9431.765217",
+        "Maximum Power": "12362.49",
+        "Minimum Power": "5979.54",
+        "Total Energy Consumed": "26993712.05"
+    },
+    "6/24/2019": {
+        "": "46",
+        "Date": "6/24/2019",
+        "Average Power": "11329.30296",
+        "Maximum Power": "18030.55",
+        "Minimum Power": "5979.54",
+        "Total Energy Consumed": "32220537.62"
+    },
+    "6/25/2019": {
+        "": "47",
+        "Date": "6/25/2019",
+        "Average Power": "10996.51986",
+        "Maximum Power": "18069.6",
+        "Minimum Power": "5979.54",
+        "Total Energy Consumed": "31483036.37"
+    },
+    "6/26/2019": {
+        "": "48",
+        "Date": "6/26/2019",
+        "Average Power": "10948.69696",
+        "Maximum Power": "17085.6",
+        "Minimum Power": "5936.17",
+        "Total Energy Consumed": "31357068.08"
+    },
+    "6/27/2019": {
+        "": "49",
+        "Date": "6/27/2019",
+        "Average Power": "10704.18076",
+        "Maximum Power": "17116.4",
+        "Minimum Power": "5936.17",
+        "Total Energy Consumed": "30474802.63"
+    },
+    "6/28/2019": {
+        "": "50",
+        "Date": "6/28/2019",
+        "Average Power": "10511.64165",
+        "Maximum Power": "16799.86",
+        "Minimum Power": "5936.17",
+        "Total Energy Consumed": "29979201.99"
+    },
+    "6/29/2019": {
+        "": "51",
+        "Date": "6/29/2019",
+        "Average Power": "9118.885474",
+        "Maximum Power": "13028.88",
+        "Minimum Power": "5236.94",
+        "Total Energy Consumed": "26089131.34"
+    },
+    "6/30/2019": {
+        "": "52",
+        "Date": "6/30/2019",
+        "Average Power": "9791.29627",
+        "Maximum Power": "13499.61",
+        "Minimum Power": "5799.3",
+        "Total Energy Consumed": "28091229.0"
+    },
+    "7/1/2019": {
+        "": "53",
+        "Date": "7/1/2019",
+        "Average Power": "10895.27589",
+        "Maximum Power": "16099.72",
+        "Minimum Power": "5799.3",
+        "Total Energy Consumed": "29689626.79"
+    },
+    "7/2/2019": {
+        "": "54",
+        "Date": "7/2/2019",
+        "Average Power": "11150.61901",
+        "Maximum Power": "16500.63",
+        "Minimum Power": "4978.78",
+        "Total Energy Consumed": "31846167.88"
+    },
+    "7/3/2019": {
+        "": "55",
+        "Date": "7/3/2019",
+        "Average Power": "10977.57592",
+        "Maximum Power": "17377.14",
+        "Minimum Power": "6431.13",
+        "Total Energy Consumed": "31516620.48"
+    },
+    "7/4/2019": {
+        "": "56",
+        "Date": "7/4/2019",
+        "Average Power": "10428.58574",
+        "Maximum Power": "16294.66",
+        "Minimum Power": "6431.13",
+        "Total Energy Consumed": "29763183.7"
+    },
+    "7/5/2019": {
+        "": "57",
+        "Date": "7/5/2019",
+        "Average Power": "10810.17517",
+        "Maximum Power": "16478.12",
+        "Minimum Power": "5593.47",
+        "Total Energy Consumed": "31046823.09"
+    },
+    "7/6/2019": {
+        "": "58",
+        "Date": "7/6/2019",
+        "Average Power": "9302.095911",
+        "Maximum Power": "12663.9",
+        "Minimum Power": "5970.58",
+        "Total Energy Consumed": "26706317.36"
+    },
+    "7/7/2019": {
+        "": "59",
+        "Date": "7/7/2019",
+        "Average Power": "9517.653346",
+        "Maximum Power": "13560.97",
+        "Minimum Power": "5725.71",
+        "Total Energy Consumed": "27363253.37"
+    },
+    "7/8/2019": {
+        "": "60",
+        "Date": "7/8/2019",
+        "Average Power": "11579.96017",
+        "Maximum Power": "17287.18",
+        "Minimum Power": "7548.63",
+        "Total Energy Consumed": "33222905.74"
+    },
+    "7/9/2019": {
+        "": "61",
+        "Date": "7/9/2019",
+        "Average Power": "10955.53334",
+        "Maximum Power": "16048.38",
+        "Minimum Power": "7548.63",
+        "Total Energy Consumed": "31442380.7"
+    },
+    "7/10/2019": {
+        "": "62",
+        "Date": "7/10/2019",
+        "Average Power": "10283.6775",
+        "Maximum Power": "16087.67",
+        "Minimum Power": "7343.84",
+        "Total Energy Consumed": "29545005.45"
+    },
+    "7/11/2019": {
+        "": "63",
+        "Date": "7/11/2019",
+        "Average Power": "10505.96376",
+        "Maximum Power": "16899.63",
+        "Minimum Power": "5816.48",
+        "Total Energy Consumed": "30194139.84"
+    },
+    "7/12/2019": {
+        "": "64",
+        "Date": "7/12/2019",
+        "Average Power": "10650.85442",
+        "Maximum Power": "16439.72",
+        "Minimum Power": "5583.65",
+        "Total Energy Consumed": "30578603.04"
+    },
+    "7/13/2019": {
+        "": "65",
+        "Date": "7/13/2019",
+        "Average Power": "9043.075921",
+        "Maximum Power": "13254.87",
+        "Minimum Power": "5789.69",
+        "Total Energy Consumed": "25962670.97"
+    },
+    "7/14/2019": {
+        "": "66",
+        "Date": "7/14/2019",
+        "Average Power": "9022.005725",
+        "Maximum Power": "12749.5",
+        "Minimum Power": "5671.36",
+        "Total Energy Consumed": "25938266.46"
+    },
+    "7/15/2019": {
+        "": "67",
+        "Date": "7/15/2019",
+        "Average Power": "10888.04473",
+        "Maximum Power": "16085.89",
+        "Minimum Power": "5622.58",
+        "Total Energy Consumed": "31248688.37"
+    },
+    "7/16/2019": {
+        "": "68",
+        "Date": "7/16/2019",
+        "Average Power": "10344.49931",
+        "Maximum Power": "18150.36",
+        "Minimum Power": "5622.58",
+        "Total Energy Consumed": "29678368.52"
+    },
+    "7/17/2019": {
+        "": "69",
+        "Date": "7/17/2019",
+        "Average Power": "10500.54656",
+        "Maximum Power": "16992.94",
+        "Minimum Power": "5622.58",
+        "Total Energy Consumed": "30115567.53"
+    },
+    "7/18/2019": {
+        "": "70",
+        "Date": "7/18/2019",
+        "Average Power": "10602.95251",
+        "Maximum Power": "16844.24",
+        "Minimum Power": "7182.16",
+        "Total Energy Consumed": "30472885.52"
+    },
+    "7/19/2019": {
+        "": "71",
+        "Date": "7/19/2019",
+        "Average Power": "10153.22308",
+        "Maximum Power": "15701.87",
+        "Minimum Power": "6245.24",
+        "Total Energy Consumed": "29190516.35"
+    },
+    "7/20/2019": {
+        "": "72",
+        "Date": "7/20/2019",
+        "Average Power": "9058.868022",
+        "Maximum Power": "12226.94",
+        "Minimum Power": "6072.48",
+        "Total Energy Consumed": "26017068.96"
+    },
+    "7/21/2019": {
+        "": "73",
+        "Date": "7/21/2019",
+        "Average Power": "8709.784425",
+        "Maximum Power": "12388.44",
+        "Minimum Power": "6072.48",
+        "Total Energy Consumed": "24918693.24"
+    },
+    "7/22/2019": {
+        "": "74",
+        "Date": "7/22/2019",
+        "Average Power": "10580.6805",
+        "Maximum Power": "17180.44",
+        "Minimum Power": "2916.51",
+        "Total Energy Consumed": "30334811.0"
+    },
+    "7/23/2019": {
+        "": "75",
+        "Date": "7/23/2019",
+        "Average Power": "10693.85205",
+        "Maximum Power": "17398.75",
+        "Minimum Power": "2916.51",
+        "Total Energy Consumed": "30552335.31"
+    },
+    "7/24/2019": {
+        "": "76",
+        "Date": "7/24/2019",
+        "Average Power": "10980.40468",
+        "Maximum Power": "16407.41",
+        "Minimum Power": "7190.9",
+        "Total Energy Consumed": "31414937.78"
+    },
+    "7/25/2019": {
+        "": "77",
+        "Date": "7/25/2019",
+        "Average Power": "10182.91509",
+        "Maximum Power": "16281.42",
+        "Minimum Power": "6029.23",
+        "Total Energy Consumed": "29245332.13"
+    },
+    "7/26/2019": {
+        "": "78",
+        "Date": "7/26/2019",
+        "Average Power": "9956.846962",
+        "Maximum Power": "14904.48",
+        "Minimum Power": "6458.74",
+        "Total Energy Consumed": "28576150.78"
+    },
+    "7/27/2019": {
+        "": "79",
+        "Date": "7/27/2019",
+        "Average Power": "8649.637914",
+        "Maximum Power": "12505.58",
+        "Minimum Power": "4136.45",
+        "Total Energy Consumed": "24833110.45"
+    },
+    "7/28/2019": {
+        "": "80",
+        "Date": "7/28/2019",
+        "Average Power": "8743.723179",
+        "Maximum Power": "11638.61",
+        "Minimum Power": "5793.57",
+        "Total Energy Consumed": "25111972.97"
+    },
+    "7/29/2019": {
+        "": "81",
+        "Date": "7/29/2019",
+        "Average Power": "9778.125138",
+        "Maximum Power": "15172.23",
+        "Minimum Power": "5793.57",
+        "Total Energy Consumed": "27916547.27"
+    },
+    "7/30/2019": {
+        "": "82",
+        "Date": "7/30/2019",
+        "Average Power": "9158.399629",
+        "Maximum Power": "15799.72",
+        "Minimum Power": "5793.57",
+        "Total Energy Consumed": "26138072.54"
+    },
+    "7/31/2019": {
+        "": "83",
+        "Date": "7/31/2019",
+        "Average Power": "9907.328215",
+        "Maximum Power": "15802.31",
+        "Minimum Power": "5793.57",
+        "Total Energy Consumed": "28305236.71"
+    },
+    "8/1/2019": {
+        "": "84",
+        "Date": "8/1/2019",
+        "Average Power": "9836.62373",
+        "Maximum Power": "16246.54",
+        "Minimum Power": "5593.75",
+        "Total Energy Consumed": "27660585.93"
+    },
+    "8/2/2019": {
+        "": "85",
+        "Date": "8/2/2019",
+        "Average Power": "9542.383081",
+        "Maximum Power": "14438.44",
+        "Minimum Power": "5707.88",
+        "Total Energy Consumed": "27195791.78"
+    },
+    "8/3/2019": {
+        "": "86",
+        "Date": "8/3/2019",
+        "Average Power": "8478.443827",
+        "Maximum Power": "12838.66",
+        "Minimum Power": "5520.09",
+        "Total Energy Consumed": "24239870.9"
+    },
+    "8/4/2019": {
+        "": "87",
+        "Date": "8/4/2019",
+        "Average Power": "8282.949058",
+        "Maximum Power": "11520.09",
+        "Minimum Power": "5335.23",
+        "Total Energy Consumed": "23821761.49"
+    },
+    "8/5/2019": {
+        "": "88",
+        "Date": "8/5/2019",
+        "Average Power": "10139.97403",
+        "Maximum Power": "15654.43",
+        "Minimum Power": "5611.05",
+        "Total Energy Consumed": "29061165.57"
+    },
+    "8/6/2019": {
+        "": "89",
+        "Date": "8/6/2019",
+        "Average Power": "9846.726608",
+        "Maximum Power": "15639.56",
+        "Minimum Power": "6606.06",
+        "Total Energy Consumed": "28191178.28"
+    },
+    "8/7/2019": {
+        "": "90",
+        "Date": "8/7/2019",
+        "Average Power": "9805.112538",
+        "Maximum Power": "14805.43",
+        "Minimum Power": "5269.71",
+        "Total Energy Consumed": "28121062.76"
+    },
+    "8/8/2019": {
+        "": "91",
+        "Date": "8/8/2019",
+        "Average Power": "9850.553823",
+        "Maximum Power": "15392.16",
+        "Minimum Power": "5672.22",
+        "Total Energy Consumed": "28241537.81"
+    },
+    "8/9/2019": {
+        "": "92",
+        "Date": "8/9/2019",
+        "Average Power": "9533.96414",
+        "Maximum Power": "14312.2",
+        "Minimum Power": "5626.94",
+        "Total Energy Consumed": "27381545.01"
+    },
+    "8/10/2019": {
+        "": "93",
+        "Date": "8/10/2019",
+        "Average Power": "8547.80079",
+        "Maximum Power": "12472.27",
+        "Minimum Power": "3452.6",
+        "Total Energy Consumed": "21737057.41"
+    },
+    "8/11/2019": {
+        "": "94",
+        "Date": "8/11/2019",
+        "Average Power": "7947.472028",
+        "Maximum Power": "13241.06",
+        "Minimum Power": "5256.34",
+        "Total Energy Consumed": "14027288.13"
+    },
+    "8/12/2019": {
+        "": "95",
+        "Date": "8/12/2019",
+        "Average Power": "8583.49137",
+        "Maximum Power": "12239.81",
+        "Minimum Power": "5256.34",
+        "Total Energy Consumed": "24428616.44"
+    },
+    "8/13/2019": {
+        "": "96",
+        "Date": "8/13/2019",
+        "Average Power": "8635.903743",
+        "Maximum Power": "11970.98",
+        "Minimum Power": "5501.85",
+        "Total Energy Consumed": "24802315.55"
+    },
+    "8/14/2019": {
+        "": "97",
+        "Date": "8/14/2019",
+        "Average Power": "8227.411638",
+        "Maximum Power": "11211.64",
+        "Minimum Power": "5734.7",
+        "Total Energy Consumed": "23604443.99"
+    },
+    "8/15/2019": {
+        "": "98",
+        "Date": "8/15/2019",
+        "Average Power": "8543.16467",
+        "Maximum Power": "11142.17",
+        "Minimum Power": "5951.41",
+        "Total Energy Consumed": "24476166.78"
+    },
+    "8/16/2019": {
+        "": "99",
+        "Date": "8/16/2019",
+        "Average Power": "9653.480865",
+        "Maximum Power": "18637.7",
+        "Minimum Power": "5884.38",
+        "Total Energy Consumed": "26325042.32"
+    },
+    "8/17/2019": {
+        "": "100",
+        "Date": "8/17/2019",
+        "Average Power": "9026.896303",
+        "Maximum Power": "12670.34",
+        "Minimum Power": "5729.67",
+        "Total Energy Consumed": "25907192.39"
+    },
+    "8/18/2019": {
+        "": "101",
+        "Date": "8/18/2019",
+        "Average Power": "8585.367413",
+        "Maximum Power": "12046.72",
+        "Minimum Power": "5691.97",
+        "Total Energy Consumed": "22304784.54"
+    },
+    "8/19/2019": {
+        "": "102",
+        "Date": "8/19/2019",
+        "Average Power": "10517.46949",
+        "Maximum Power": "17170.94",
+        "Minimum Power": "6184.23",
+        "Total Energy Consumed": "30195654.91"
+    },
+    "8/20/2019": {
+        "": "103",
+        "Date": "8/20/2019",
+        "Average Power": "10241.67831",
+        "Maximum Power": "16444.08",
+        "Minimum Power": "6045.61",
+        "Total Energy Consumed": "29291199.97"
+    },
+    "8/21/2019": {
+        "": "104",
+        "Date": "8/21/2019",
+        "Average Power": "9859.512336",
+        "Maximum Power": "16833.17",
+        "Minimum Power": "5363.33",
+        "Total Energy Consumed": "28316519.43"
+    },
+    "8/22/2019": {
+        "": "105",
+        "Date": "8/22/2019",
+        "Average Power": "9657.605291",
+        "Maximum Power": "14556.93",
+        "Minimum Power": "6302.06",
+        "Total Energy Consumed": "27746300.0"
+    },
+    "8/23/2019": {
+        "": "106",
+        "Date": "8/23/2019",
+        "Average Power": "9715.225037",
+        "Maximum Power": "16220.49",
+        "Minimum Power": "6302.06",
+        "Total Energy Consumed": "27639815.23"
+    },
+    "8/24/2019": {
+        "": "107",
+        "Date": "8/24/2019",
+        "Average Power": "8795.6411",
+        "Maximum Power": "12863.74",
+        "Minimum Power": "-1.49",
+        "Total Energy Consumed": "24539838.67"
+    },
+    "8/25/2019": {
+        "": "108",
+        "Date": "8/25/2019",
+        "Average Power": "9087.722693",
+        "Maximum Power": "12807.03",
+        "Minimum Power": "5477.29",
+        "Total Energy Consumed": "26018150.07"
+    },
+    "8/26/2019": {
+        "": "109",
+        "Date": "8/26/2019",
+        "Average Power": "10147.21309",
+        "Maximum Power": "16067.12",
+        "Minimum Power": "5477.29",
+        "Total Energy Consumed": "29092059.92"
+    },
+    "8/27/2019": {
+        "": "110",
+        "Date": "8/27/2019",
+        "Average Power": "10061.98584",
+        "Maximum Power": "16621.52",
+        "Minimum Power": "5838.16",
+        "Total Energy Consumed": "28867837.38"
+    },
+    "8/28/2019": {
+        "": "111",
+        "Date": "8/28/2019",
+        "Average Power": "9983.457704",
+        "Maximum Power": "15906.15",
+        "Minimum Power": "5838.16",
+        "Total Energy Consumed": "28692457.44"
+    },
+    "8/29/2019": {
+        "": "112",
+        "Date": "8/29/2019",
+        "Average Power": "9194.869424",
+        "Maximum Power": "14207.31",
+        "Minimum Power": "4970.99",
+        "Total Energy Consumed": "26324911.16"
+    },
+    "8/30/2019": {
+        "": "113",
+        "Date": "8/30/2019",
+        "Average Power": "9679.89864",
+        "Maximum Power": "16009.71",
+        "Minimum Power": "5889.7",
+        "Total Energy Consumed": "27616750.82"
+    },
+    "8/31/2019": {
+        "": "114",
+        "Date": "8/31/2019",
+        "Average Power": "8890.739407",
+        "Maximum Power": "13102.25",
+        "Minimum Power": "5747.47",
+        "Total Energy Consumed": "25329716.57"
+    },
+    "9/1/2019": {
+        "": "115",
+        "Date": "9/1/2019",
+        "Average Power": "8946.908277",
+        "Maximum Power": "12481.04",
+        "Minimum Power": "6565.81",
+        "Total Energy Consumed": "25185546.8"
+    },
+    "9/2/2019": {
+        "": "116",
+        "Date": "9/2/2019",
+        "Average Power": "9805.620598",
+        "Maximum Power": "17008.6",
+        "Minimum Power": "5825.04",
+        "Total Energy Consumed": "27730295.05"
+    },
+    "9/3/2019": {
+        "": "117",
+        "Date": "9/3/2019",
+        "Average Power": "10198.75198",
+        "Maximum Power": "16246.38",
+        "Minimum Power": "4999.29",
+        "Total Energy Consumed": "29229623.18"
+    },
+    "9/4/2019": {
+        "": "118",
+        "Date": "9/4/2019",
+        "Average Power": "10290.3895",
+        "Maximum Power": "17147.71",
+        "Minimum Power": "5725.46",
+        "Total Energy Consumed": "29409933.19"
+    },
+    "9/5/2019": {
+        "": "119",
+        "Date": "9/5/2019",
+        "Average Power": "10476.19891",
+        "Maximum Power": "17220.12",
+        "Minimum Power": "5950.97",
+        "Total Energy Consumed": "29951452.67"
+    },
+    "9/6/2019": {
+        "": "120",
+        "Date": "9/6/2019",
+        "Average Power": "10702.72398",
+        "Maximum Power": "16938.96",
+        "Minimum Power": "5395.66",
+        "Total Energy Consumed": "30620493.32"
+    },
+    "9/7/2019": {
+        "": "121",
+        "Date": "9/7/2019",
+        "Average Power": "9616.855028",
+        "Maximum Power": "14722.57",
+        "Minimum Power": "5395.66",
+        "Total Energy Consumed": "27600373.93"
+    },
+    "9/8/2019": {
+        "": "122",
+        "Date": "9/8/2019",
+        "Average Power": "9652.143826",
+        "Maximum Power": "13236.58",
+        "Minimum Power": "6482.11",
+        "Total Energy Consumed": "27749913.5"
+    },
+    "9/9/2019": {
+        "": "123",
+        "Date": "9/9/2019",
+        "Average Power": "9645.244025",
+        "Maximum Power": "13431.2",
+        "Minimum Power": "6567.85",
+        "Total Energy Consumed": "27701140.84"
+    },
+    "9/10/2019": {
+        "": "124",
+        "Date": "9/10/2019",
+        "Average Power": "8996.70558",
+        "Maximum Power": "12607.39",
+        "Minimum Power": "5854.31",
+        "Total Energy Consumed": "25730577.96"
+    },
+    "9/11/2019": {
+        "": "125",
+        "Date": "9/11/2019",
+        "Average Power": "11154.93465",
+        "Maximum Power": "17468.89",
+        "Minimum Power": "7432.66",
+        "Total Energy Consumed": "32003507.52"
+    },
+    "9/12/2019": {
+        "": "126",
+        "Date": "9/12/2019",
+        "Average Power": "11113.43609",
+        "Maximum Power": "16768.18",
+        "Minimum Power": "6260.91",
+        "Total Energy Consumed": "31839994.4"
+    },
+    "9/13/2019": {
+        "": "127",
+        "Date": "9/13/2019",
+        "Average Power": "10412.24826",
+        "Maximum Power": "16728.42",
+        "Minimum Power": "4957.49",
+        "Total Energy Consumed": "29893564.75"
+    },
+    "9/14/2019": {
+        "": "128",
+        "Date": "9/14/2019",
+        "Average Power": "9001.232234",
+        "Maximum Power": "12823.68",
+        "Minimum Power": "5724.56",
+        "Total Energy Consumed": "25869541.44"
+    },
+    "9/15/2019": {
+        "": "129",
+        "Date": "9/15/2019",
+        "Average Power": "9068.770049",
+        "Maximum Power": "12599.44",
+        "Minimum Power": "5881.72",
+        "Total Energy Consumed": "26027370.04"
+    },
+    "9/16/2019": {
+        "": "130",
+        "Date": "9/16/2019",
+        "Average Power": "10525.10125",
+        "Maximum Power": "17760.43",
+        "Minimum Power": "5881.72",
+        "Total Energy Consumed": "29891287.55"
+    },
+    "9/17/2019": {
+        "": "131",
+        "Date": "9/17/2019",
+        "Average Power": "10261.82189",
+        "Maximum Power": "15321.84",
+        "Minimum Power": "5709.23",
+        "Total Energy Consumed": "29410381.53"
+    },
+    "9/18/2019": {
+        "": "132",
+        "Date": "9/18/2019",
+        "Average Power": "10061.4454",
+        "Maximum Power": "16648.36",
+        "Minimum Power": "5709.23",
+        "Total Energy Consumed": "28886409.75"
+    },
+    "9/19/2019": {
+        "": "133",
+        "Date": "9/19/2019",
+        "Average Power": "10993.6473",
+        "Maximum Power": "17546.05",
+        "Minimum Power": "6297.03",
+        "Total Energy Consumed": "31474812.21"
+    },
+    "9/20/2019": {
+        "": "134",
+        "Date": "9/20/2019",
+        "Average Power": "11009.38856",
+        "Maximum Power": "17832.86",
+        "Minimum Power": "6307.55",
+        "Total Energy Consumed": "31431804.33"
+    },
+    "9/21/2019": {
+        "": "135",
+        "Date": "9/21/2019",
+        "Average Power": "9483.251803",
+        "Maximum Power": "13359.44",
+        "Minimum Power": "5721.38",
+        "Total Energy Consumed": "27197966.17"
+    },
+    "9/22/2019": {
+        "": "136",
+        "Date": "9/22/2019",
+        "Average Power": "9657.954287",
+        "Maximum Power": "13763.34",
+        "Minimum Power": "6347.4",
+        "Total Energy Consumed": "27708670.85"
+    },
+    "9/23/2019": {
+        "": "137",
+        "Date": "9/23/2019",
+        "Average Power": "11141.2839",
+        "Maximum Power": "17644.26",
+        "Minimum Power": "5977.51",
+        "Total Energy Consumed": "31986626.09"
+    },
+    "9/24/2019": {
+        "": "138",
+        "Date": "9/24/2019",
+        "Average Power": "10561.37418",
+        "Maximum Power": "17311.18",
+        "Minimum Power": "6132.82",
+        "Total Energy Consumed": "30279459.77"
+    },
+    "9/25/2019": {
+        "": "139",
+        "Date": "9/25/2019",
+        "Average Power": "10476.94887",
+        "Maximum Power": "17897.57",
+        "Minimum Power": "5860.51",
+        "Total Energy Consumed": "30026935.46"
+    },
+    "9/26/2019": {
+        "": "140",
+        "Date": "9/26/2019",
+        "Average Power": "10006.55407",
+        "Maximum Power": "16717.07",
+        "Minimum Power": "5631.94",
+        "Total Energy Consumed": "28678783.96"
+    },
+    "9/27/2019": {
+        "": "141",
+        "Date": "9/27/2019",
+        "Average Power": "9565.215211",
+        "Maximum Power": "17183.06",
+        "Minimum Power": "5541.74",
+        "Total Energy Consumed": "27165211.2"
+    },
+    "9/28/2019": {
+        "": "142",
+        "Date": "9/28/2019",
+        "Average Power": "9015.785368",
+        "Maximum Power": "13759.71",
+        "Minimum Power": "5414.45",
+        "Total Energy Consumed": "25812193.51"
+    },
+    "9/29/2019": {
+        "": "143",
+        "Date": "9/29/2019",
+        "Average Power": "8934.194546",
+        "Maximum Power": "12778.51",
+        "Minimum Power": "5758.31",
+        "Total Energy Consumed": "25667940.93"
+    },
+    "9/30/2019": {
+        "": "144",
+        "Date": "9/30/2019",
+        "Average Power": "10787.16531",
+        "Maximum Power": "17077.32",
+        "Minimum Power": "6266.9",
+        "Total Energy Consumed": "30743421.12"
+    },
+    "10/1/2019": {
+        "": "145",
+        "Date": "10/1/2019",
+        "Average Power": "10654.1691",
+        "Maximum Power": "16209.3",
+        "Minimum Power": "5244.3",
+        "Total Energy Consumed": "30577465.33"
+    },
+    "10/2/2019": {
+        "": "146",
+        "Date": "10/2/2019",
+        "Average Power": "10146.37384",
+        "Maximum Power": "16244.28",
+        "Minimum Power": "6948.49",
+        "Total Energy Consumed": "29109946.55"
+    },
+    "10/3/2019": {
+        "": "147",
+        "Date": "10/3/2019",
+        "Average Power": "9614.793402",
+        "Maximum Power": "15518.98",
+        "Minimum Power": "6948.49",
+        "Total Energy Consumed": "27498309.13"
+    },
+    "10/4/2019": {
+        "": "148",
+        "Date": "10/4/2019",
+        "Average Power": "9727.222418",
+        "Maximum Power": "15053.89",
+        "Minimum Power": "5558.39",
+        "Total Energy Consumed": "27878219.45"
+    },
+    "10/5/2019": {
+        "": "149",
+        "Date": "10/5/2019",
+        "Average Power": "8566.136309",
+        "Maximum Power": "13531.64",
+        "Minimum Power": "5523.3",
+        "Total Energy Consumed": "24156504.39"
+    },
+    "10/6/2019": {
+        "": "150",
+        "Date": "10/6/2019",
+        "Average Power": "7802.214177",
+        "Maximum Power": "11589.97",
+        "Minimum Power": "4668.89",
+        "Total Energy Consumed": "22361145.83"
+    },
+    "10/7/2019": {
+        "": "151",
+        "Date": "10/7/2019",
+        "Average Power": "10094.41781",
+        "Maximum Power": "15352.02",
+        "Minimum Power": "6729.03",
+        "Total Energy Consumed": "28981073.54"
+    },
+    "10/8/2019": {
+        "": "152",
+        "Date": "10/8/2019",
+        "Average Power": "10655.09219",
+        "Maximum Power": "19198.61",
+        "Minimum Power": "6243.9",
+        "Total Energy Consumed": "29365434.08"
+    },
+    "10/9/2019": {
+        "": "153",
+        "Date": "10/9/2019",
+        "Average Power": "10516.92424",
+        "Maximum Power": "16762.09",
+        "Minimum Power": "5877.08",
+        "Total Energy Consumed": "30173055.65"
+    },
+    "10/10/2019": {
+        "": "154",
+        "Date": "10/10/2019",
+        "Average Power": "10215.6202",
+        "Maximum Power": "17192.78",
+        "Minimum Power": "6286.78",
+        "Total Energy Consumed": "29329045.59"
+    },
+    "10/11/2019": {
+        "": "155",
+        "Date": "10/11/2019",
+        "Average Power": "10729.31806",
+        "Maximum Power": "17421.48",
+        "Minimum Power": "5552.59",
+        "Total Energy Consumed": "21705410.44"
+    },
+    "10/12/2019": {
+        "": "156",
+        "Date": "10/12/2019",
+        "Average Power": "8651.876834",
+        "Maximum Power": "12520.03",
+        "Minimum Power": "6094.18",
+        "Total Energy Consumed": "24372337.04"
+    },
+    "10/13/2019": {
+        "": "157",
+        "Date": "10/13/2019",
+        "Average Power": "8363.542259",
+        "Maximum Power": "11899.55",
+        "Minimum Power": "5692.35",
+        "Total Energy Consumed": "23811004.81"
+    },
+    "10/14/2019": {
+        "": "158",
+        "Date": "10/14/2019",
+        "Average Power": "10148.06154",
+        "Maximum Power": "16564.51",
+        "Minimum Power": "6965.6",
+        "Total Energy Consumed": "29013307.94"
+    },
+    "10/15/2019": {
+        "": "159",
+        "Date": "10/15/2019",
+        "Average Power": "9606.236329",
+        "Maximum Power": "15921.45",
+        "Minimum Power": "5142.59",
+        "Total Energy Consumed": "27425804.72"
+    },
+    "10/16/2019": {
+        "": "160",
+        "Date": "10/16/2019",
+        "Average Power": "9764.581137",
+        "Maximum Power": "16481.28",
+        "Minimum Power": "6008.63",
+        "Total Energy Consumed": "27907172.89"
+    },
+    "10/17/2019": {
+        "": "161",
+        "Date": "10/17/2019",
+        "Average Power": "10143.91907",
+        "Maximum Power": "17746.96",
+        "Minimum Power": "4926.85",
+        "Total Energy Consumed": "28981176.78"
+    },
+    "10/18/2019": {
+        "": "162",
+        "Date": "10/18/2019",
+        "Average Power": "10614.24384",
+        "Maximum Power": "17195.49",
+        "Minimum Power": "4960.34",
+        "Total Energy Consumed": "30399194.35"
+    },
+    "10/19/2019": {
+        "": "163",
+        "Date": "10/19/2019",
+        "Average Power": "9221.465246",
+        "Maximum Power": "12626.37",
+        "Minimum Power": "5340.48",
+        "Total Energy Consumed": "26069082.25"
+    },
+    "10/20/2019": {
+        "": "164",
+        "Date": "10/20/2019",
+        "Average Power": "9570.894674",
+        "Maximum Power": "12355.27",
+        "Minimum Power": "1887.18",
+        "Total Energy Consumed": "27478038.61"
+    },
+    "10/21/2019": {
+        "": "165",
+        "Date": "10/21/2019",
+        "Average Power": "10786.77234",
+        "Maximum Power": "17268.52",
+        "Minimum Power": "5235.76",
+        "Total Energy Consumed": "30893315.97"
+    },
+    "10/22/2019": {
+        "": "166",
+        "Date": "10/22/2019",
+        "Average Power": "10099.19725",
+        "Maximum Power": "17327.74",
+        "Minimum Power": "4843.98",
+        "Total Energy Consumed": "28833208.14"
+    },
+    "10/23/2019": {
+        "": "167",
+        "Date": "10/23/2019",
+        "Average Power": "10357.0543",
+        "Maximum Power": "17541.83",
+        "Minimum Power": "6076.3",
+        "Total Energy Consumed": "28419756.99"
+    },
+    "10/24/2019": {
+        "": "168",
+        "Date": "10/24/2019",
+        "Average Power": "10289.24114",
+        "Maximum Power": "16532.54",
+        "Minimum Power": "5742.88",
+        "Total Energy Consumed": "28511487.19"
+    },
+    "10/25/2019": {
+        "": "169",
+        "Date": "10/25/2019",
+        "Average Power": "9894.309675",
+        "Maximum Power": "17690.81",
+        "Minimum Power": "6540.02",
+        "Total Energy Consumed": "28307619.98"
+    },
+    "10/26/2019": {
+        "": "170",
+        "Date": "10/26/2019",
+        "Average Power": "8768.627754",
+        "Maximum Power": "14862.35",
+        "Minimum Power": "5187.01",
+        "Total Energy Consumed": "24902902.82"
+    },
+    "10/27/2019": {
+        "": "171",
+        "Date": "10/27/2019",
+        "Average Power": "8253.340586",
+        "Maximum Power": "13540.32",
+        "Minimum Power": "4762.48",
+        "Total Energy Consumed": "23241407.09"
+    },
+    "10/28/2019": {
+        "": "172",
+        "Date": "10/28/2019",
+        "Average Power": "9899.998934",
+        "Maximum Power": "16989.36",
+        "Minimum Power": "5262.93",
+        "Total Energy Consumed": "28145696.97"
+    },
+    "10/29/2019": {
+        "": "173",
+        "Date": "10/29/2019",
+        "Average Power": "9563.199229",
+        "Maximum Power": "15943.93",
+        "Minimum Power": "6199.66",
+        "Total Energy Consumed": "27274244.2"
+    },
+    "10/30/2019": {
+        "": "174",
+        "Date": "10/30/2019",
+        "Average Power": "9700.922963",
+        "Maximum Power": "10101.64",
+        "Minimum Power": "9229.04",
+        "Total Energy Consumed": "523849.84"
+    },
+    "11/7/2019": {
+        "": "175",
+        "Date": "11/7/2019",
+        "Average Power": "7602.961667",
+        "Maximum Power": "8325.25",
+        "Minimum Power": "7020.08",
+        "Total Energy Consumed": "45617.77"
+    },
+    "11/8/2019": {
+        "": "176",
+        "Date": "11/8/2019",
+        "Average Power": "9347.916759",
+        "Maximum Power": "14790.14",
+        "Minimum Power": "6509.19",
+        "Total Energy Consumed": "3720470.87"
+    },
+    "11/9/2019": {
+        "": "177",
+        "Date": "11/9/2019",
+        "Average Power": "7038.241915",
+        "Maximum Power": "7840.94",
+        "Minimum Power": "5853.07",
+        "Total Energy Consumed": "661594.74"
+    },
+    "11/10/2019": {
+        "": "178",
+        "Date": "11/10/2019",
+        "Average Power": "7100.31444",
+        "Maximum Power": "8029.1",
+        "Minimum Power": "4542.22",
+        "Total Energy Consumed": "1966787.1"
+    },
+    "11/19/2019": {
+        "": "179",
+        "Date": "11/19/2019",
+        "Average Power": "7927.632548",
+        "Maximum Power": "11513.42",
+        "Minimum Power": "1.08",
+        "Total Energy Consumed": "2457566.09"
+    },
+    "11/20/2019": {
+        "": "180",
+        "Date": "11/20/2019",
+        "Average Power": "8751.396748",
+        "Maximum Power": "13761.71",
+        "Minimum Power": "6470.15",
+        "Total Energy Consumed": "24976486.32"
+    },
+    "11/21/2019": {
+        "": "181",
+        "Date": "11/21/2019",
+        "Average Power": "9237.847476",
+        "Maximum Power": "15458.38",
+        "Minimum Power": "4923.5",
+        "Total Energy Consumed": "26429481.63"
+    },
+    "11/22/2019": {
+        "": "182",
+        "Date": "11/22/2019",
+        "Average Power": "8829.193287",
+        "Maximum Power": "15585.44",
+        "Minimum Power": "4923.5",
+        "Total Energy Consumed": "25251492.8"
+    },
+    "11/23/2019": {
+        "": "183",
+        "Date": "11/23/2019",
+        "Average Power": "7450.903097",
+        "Maximum Power": "10475.54",
+        "Minimum Power": "2267.73",
+        "Total Energy Consumed": "20184496.49"
+    },
+    "11/24/2019": {
+        "": "184",
+        "Date": "11/24/2019",
+        "Average Power": "7545.875588",
+        "Maximum Power": "10766.29",
+        "Minimum Power": "5275.85",
+        "Total Energy Consumed": "21671754.69"
+    },
+    "11/25/2019": {
+        "": "185",
+        "Date": "11/25/2019",
+        "Average Power": "8421.255202",
+        "Maximum Power": "14821.32",
+        "Minimum Power": "6129.95",
+        "Total Energy Consumed": "24025841.09"
+    },
+    "11/26/2019": {
+        "": "186",
+        "Date": "11/26/2019",
+        "Average Power": "8484.983967",
+        "Maximum Power": "14935.74",
+        "Minimum Power": "6401.42",
+        "Total Energy Consumed": "24275539.13"
+    },
+    "11/27/2019": {
+        "": "187",
+        "Date": "11/27/2019",
+        "Average Power": "8344.59197",
+        "Maximum Power": "13669.06",
+        "Minimum Power": "5305.37",
+        "Total Energy Consumed": "23932289.77"
+    },
+    "11/28/2019": {
+        "": "188",
+        "Date": "11/28/2019",
+        "Average Power": "8552.265193",
+        "Maximum Power": "13607.91",
+        "Minimum Power": "6213.78",
+        "Total Energy Consumed": "24536448.84"
+    },
+    "11/29/2019": {
+        "": "189",
+        "Date": "11/29/2019",
+        "Average Power": "8428.038785",
+        "Maximum Power": "13299.65",
+        "Minimum Power": "5770.31",
+        "Total Energy Consumed": "24146331.12"
+    },
+    "11/30/2019": {
+        "": "190",
+        "Date": "11/30/2019",
+        "Average Power": "7219.128054",
+        "Maximum Power": "10909.91",
+        "Minimum Power": "5224.65",
+        "Total Energy Consumed": "17953971.47"
+    },
+    "12/2/2019": {
+        "": "191",
+        "Date": "12/2/2019",
+        "Average Power": "6493.756501",
+        "Maximum Power": "6716.7",
+        "Minimum Power": "6334.62",
+        "Total Energy Consumed": "2357233.61"
+    },
+    "12/3/2019": {
+        "": "192",
+        "Date": "12/3/2019",
+        "Average Power": "8114.435509",
+        "Maximum Power": "13381.11",
+        "Minimum Power": "5692.91",
+        "Total Energy Consumed": "23272201.04"
+    },
+    "12/4/2019": {
+        "": "193",
+        "Date": "12/4/2019",
+        "Average Power": "8265.212039",
+        "Maximum Power": "14618.86",
+        "Minimum Power": "6374.72",
+        "Total Energy Consumed": "23671567.28"
+    },
+    "12/5/2019": {
+        "": "194",
+        "Date": "12/5/2019",
+        "Average Power": "8383.819885",
+        "Maximum Power": "13432.18",
+        "Minimum Power": "6278.32",
+        "Total Energy Consumed": "24103482.17"
+    },
+    "12/6/2019": {
+        "": "195",
+        "Date": "12/6/2019",
+        "Average Power": "8061.21821",
+        "Maximum Power": "13178.72",
+        "Minimum Power": "6267.64",
+        "Total Energy Consumed": "23151818.7"
+    },
+    "12/7/2019": {
+        "": "196",
+        "Date": "12/7/2019",
+        "Average Power": "6821.303816",
+        "Maximum Power": "9680.49",
+        "Minimum Power": "5182.91",
+        "Total Energy Consumed": "19502107.61"
+    },
+    "12/8/2019": {
+        "": "197",
+        "Date": "12/8/2019",
+        "Average Power": "6891.721279",
+        "Maximum Power": "10276.36",
+        "Minimum Power": "5475.18",
+        "Total Energy Consumed": "19724106.3"
+    },
+    "12/9/2019": {
+        "": "198",
+        "Date": "12/9/2019",
+        "Average Power": "8006.563243",
+        "Maximum Power": "12917.66",
+        "Minimum Power": "5562.98",
+        "Total Energy Consumed": "22666580.54"
+    },
+    "12/10/2019": {
+        "": "199",
+        "Date": "12/10/2019",
+        "Average Power": "8384.901611",
+        "Maximum Power": "13850.4",
+        "Minimum Power": "5343.49",
+        "Total Energy Consumed": "24039512.92"
+    },
+    "12/11/2019": {
+        "": "200",
+        "Date": "12/11/2019",
+        "Average Power": "8748.638329",
+        "Maximum Power": "19360.58",
+        "Minimum Power": "1924.86",
+        "Total Energy Consumed": "24924870.6"
+    },
+    "12/12/2019": {
+        "": "201",
+        "Date": "12/12/2019",
+        "Average Power": "8109.553899",
+        "Maximum Power": "14626.93",
+        "Minimum Power": "5551.81",
+        "Total Energy Consumed": "23193324.15"
+    },
+    "12/13/2019": {
+        "": "202",
+        "Date": "12/13/2019",
+        "Average Power": "7705.556134",
+        "Maximum Power": "12818.7",
+        "Minimum Power": "5435.3",
+        "Total Energy Consumed": "22084123.88"
+    },
+    "12/14/2019": {
+        "": "203",
+        "Date": "12/14/2019",
+        "Average Power": "7180.548959",
+        "Maximum Power": "10066.86",
+        "Minimum Power": "5398.71",
+        "Total Energy Consumed": "20486106.18"
+    },
+    "12/15/2019": {
+        "": "204",
+        "Date": "12/15/2019",
+        "Average Power": "6855.737893",
+        "Maximum Power": "10083.91",
+        "Minimum Power": "5916.18",
+        "Total Energy Consumed": "19326325.12"
+    },
+    "12/16/2019": {
+        "": "205",
+        "Date": "12/16/2019",
+        "Average Power": "7283.696334",
+        "Maximum Power": "10915.07",
+        "Minimum Power": "5574.76",
+        "Total Energy Consumed": "20918775.87"
+    },
+    "12/17/2019": {
+        "": "206",
+        "Date": "12/17/2019",
+        "Average Power": "7533.450502",
+        "Maximum Power": "11498.45",
+        "Minimum Power": "6102.48",
+        "Total Energy Consumed": "21613469.49"
+    },
+    "12/18/2019": {
+        "": "207",
+        "Date": "12/18/2019",
+        "Average Power": "7499.127125",
+        "Maximum Power": "10778.83",
+        "Minimum Power": "5151.43",
+        "Total Energy Consumed": "21492498.34"
+    },
+    "12/19/2019": {
+        "": "208",
+        "Date": "12/19/2019",
+        "Average Power": "7797.416583",
+        "Maximum Power": "12611.67",
+        "Minimum Power": "3959.05",
+        "Total Energy Consumed": "22409775.26"
+    },
+    "12/20/2019": {
+        "": "209",
+        "Date": "12/20/2019",
+        "Average Power": "7934.655618",
+        "Maximum Power": "12549.98",
+        "Minimum Power": "6267.42",
+        "Total Energy Consumed": "15789964.68"
+    },
+    "12/23/2019": {
+        "": "210",
+        "Date": "12/23/2019",
+        "Average Power": "10808.25894",
+        "Maximum Power": "21986.04",
+        "Minimum Power": "6596.53",
+        "Total Energy Consumed": "5987775.45"
+    },
+    "12/30/2019": {
+        "": "211",
+        "Date": "12/30/2019",
+        "Average Power": "7516.202285",
+        "Maximum Power": "10621.41",
+        "Minimum Power": "5447.05",
+        "Total Energy Consumed": "7861947.59"
+    },
+    "12/31/2019": {
+        "": "212",
+        "Date": "12/31/2019",
+        "Average Power": "7103.703088",
+        "Maximum Power": "11168.47",
+        "Minimum Power": "4871.25",
+        "Total Energy Consumed": "20380524.16"
+    },
+    "1/1/2020": {
+        "": "213",
+        "Date": "1/1/2020",
+        "Average Power": "6890.689592",
+        "Maximum Power": "10676.47",
+        "Minimum Power": "4871.25",
+        "Total Energy Consumed": "19776279.13"
+    },
+    "1/2/2020": {
+        "": "214",
+        "Date": "1/2/2020",
+        "Average Power": "6999.609219",
+        "Maximum Power": "10802.3",
+        "Minimum Power": "5416.19",
+        "Total Energy Consumed": "20081878.85"
+    },
+    "1/3/2020": {
+        "": "215",
+        "Date": "1/3/2020",
+        "Average Power": "7012.626477",
+        "Maximum Power": "10771.32",
+        "Minimum Power": "5548.26",
+        "Total Energy Consumed": "20084162.23"
+    },
+    "1/4/2020": {
+        "": "216",
+        "Date": "1/4/2020",
+        "Average Power": "6806.164682",
+        "Maximum Power": "9313.91",
+        "Minimum Power": "5548.26",
+        "Total Energy Consumed": "18853076.17"
+    },
+    "1/5/2020": {
+        "": "217",
+        "Date": "1/5/2020",
+        "Average Power": "7313.41",
+        "Maximum Power": "7313.41",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "21040680.57"
+    },
+    "1/6/2020": {
+        "": "218",
+        "Date": "1/6/2020",
+        "Average Power": "4046.855533",
+        "Maximum Power": "7313.41",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "11606381.67"
+    },
+    "1/7/2020": {
+        "": "219",
+        "Date": "1/7/2020",
+        "Average Power": "4046.855533",
+        "Maximum Power": "7313.41",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "11606381.67"
+    },
+    "1/8/2020": {
+        "": "220",
+        "Date": "1/8/2020",
+        "Average Power": "4046.855533",
+        "Maximum Power": "7313.41",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "11606381.67"
+    },
+    "1/9/2020": {
+        "": "221",
+        "Date": "1/9/2020",
+        "Average Power": "4046.855533",
+        "Maximum Power": "7313.41",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "11606381.67"
+    },
+    "1/10/2020": {
+        "": "222",
+        "Date": "1/10/2020",
+        "Average Power": "4046.855533",
+        "Maximum Power": "7313.41",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "11606381.67"
+    },
+    "1/11/2020": {
+        "": "223",
+        "Date": "1/11/2020",
+        "Average Power": "4046.855533",
+        "Maximum Power": "7313.41",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "11606381.67"
+    },
+    "1/12/2020": {
+        "": "224",
+        "Date": "1/12/2020",
+        "Average Power": "5001.519697",
+        "Maximum Power": "8958.09",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "14379369.13"
+    },
+    "1/13/2020": {
+        "": "225",
+        "Date": "1/13/2020",
+        "Average Power": "2954.864816",
+        "Maximum Power": "9242.08",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "8049051.76"
+    },
+    "1/14/2020": {
+        "": "226",
+        "Date": "1/14/2020",
+        "Average Power": "2954.864816",
+        "Maximum Power": "9242.08",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "8049051.76"
+    },
+    "1/15/2020": {
+        "": "227",
+        "Date": "1/15/2020",
+        "Average Power": "2954.864816",
+        "Maximum Power": "9242.08",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "8049051.76"
+    },
+    "1/16/2020": {
+        "": "228",
+        "Date": "1/16/2020",
+        "Average Power": "2954.864816",
+        "Maximum Power": "9242.08",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "8049051.76"
+    },
+    "1/17/2020": {
+        "": "229",
+        "Date": "1/17/2020",
+        "Average Power": "3379.592191",
+        "Maximum Power": "10720.2",
+        "Minimum Power": "7313.41",
+        "Total Energy Consumed": "9625078.56"
+    },
+    "1/18/2020": {
+        "": "230",
+        "Date": "1/18/2020",
+        "Average Power": "6891.813247",
+        "Maximum Power": "10942.79",
+        "Minimum Power": "6070.45",
+        "Total Energy Consumed": "19800179.46"
+    },
+    "1/19/2020": {
+        "": "231",
+        "Date": "1/19/2020",
+        "Average Power": "6599.915467",
+        "Maximum Power": "9165.47",
+        "Minimum Power": "6010.97",
+        "Total Energy Consumed": "18941757.39"
+    },
+    "1/20/2020": {
+        "": "232",
+        "Date": "1/20/2020",
+        "Average Power": "7301.557815",
+        "Maximum Power": "10902.08",
+        "Minimum Power": "6010.97",
+        "Total Energy Consumed": "20553885.25"
+    },
+    "1/21/2020": {
+        "": "233",
+        "Date": "1/21/2020",
+        "Average Power": "6978.721104",
+        "Maximum Power": "9103.69",
+        "Minimum Power": "6243.89",
+        "Total Energy Consumed": "20098716.78"
+    },
+    "1/22/2020": {
+        "": "234",
+        "Date": "1/22/2020",
+        "Average Power": "7505.511254",
+        "Maximum Power": "9597.03",
+        "Minimum Power": "6398.72",
+        "Total Energy Consumed": "21608366.9"
+    },
+    "1/23/2020": {
+        "": "235",
+        "Date": "1/23/2020",
+        "Average Power": "2698.778168",
+        "Maximum Power": "7557.63",
+        "Minimum Power": "6398.72",
+        "Total Energy Consumed": "7761686.01"
+    },
+    "1/24/2020": {
+        "": "236",
+        "Date": "1/24/2020",
+        "Average Power": "2698.778168",
+        "Maximum Power": "7557.63",
+        "Minimum Power": "6398.72",
+        "Total Energy Consumed": "7761686.01"
+    },
+    "1/25/2020": {
+        "": "237",
+        "Date": "1/25/2020",
+        "Average Power": "419.1055833",
+        "Maximum Power": "6936.92",
+        "Minimum Power": "6398.72",
+        "Total Energy Consumed": "1207024.08"
+    },
+    "1/26/2020": {
+        "": "238",
+        "Date": "1/26/2020",
+        "Average Power": "6939.474927",
+        "Maximum Power": "7053.28",
+        "Minimum Power": "6903.92",
+        "Total Energy Consumed": "19985687.79"
+    },
+    "1/27/2020": {
+        "": "239",
+        "Date": "1/27/2020",
+        "Average Power": "6939.64",
+        "Maximum Power": "6939.64",
+        "Minimum Power": "6939.64",
+        "Total Energy Consumed": "19986163.2"
+    },
+    "1/28/2020": {
+        "": "240",
+        "Date": "1/28/2020",
+        "Average Power": "2962.569485",
+        "Maximum Power": "13068.41",
+        "Minimum Power": "6939.64",
+        "Total Energy Consumed": "8517387.27"
+    },
+    "1/29/2020": {
+        "": "241",
+        "Date": "1/29/2020",
+        "Average Power": "7890.908722",
+        "Maximum Power": "13706.19",
+        "Minimum Power": "6226.22",
+        "Total Energy Consumed": "22654798.94"
+    },
+    "1/30/2020": {
+        "": "242",
+        "Date": "1/30/2020",
+        "Average Power": "7497.06843",
+        "Maximum Power": "13304.64",
+        "Minimum Power": "6245.19",
+        "Total Energy Consumed": "21494095.19"
+    },
+    "1/31/2020": {
+        "": "243",
+        "Date": "1/31/2020",
+        "Average Power": "7729.332069",
+        "Maximum Power": "13670.21",
+        "Minimum Power": "6233.0",
+        "Total Energy Consumed": "22190912.37"
+    },
+    "2/1/2020": {
+        "": "244",
+        "Date": "2/1/2020",
+        "Average Power": "7205.266803",
+        "Maximum Power": "10768.18",
+        "Minimum Power": "6188.75",
+        "Total Energy Consumed": "20686320.99"
+    },
+    "2/2/2020": {
+        "": "245",
+        "Date": "2/2/2020",
+        "Average Power": "6872.318076",
+        "Maximum Power": "10922.83",
+        "Minimum Power": "6219.06",
+        "Total Energy Consumed": "19751042.15"
+    },
+    "2/3/2020": {
+        "": "246",
+        "Date": "2/3/2020",
+        "Average Power": "7588.579972",
+        "Maximum Power": "12898.94",
+        "Minimum Power": "6145.63",
+        "Total Energy Consumed": "21801990.26"
+    },
+    "2/4/2020": {
+        "": "247",
+        "Date": "2/4/2020",
+        "Average Power": "8093.249342",
+        "Maximum Power": "13568.94",
+        "Minimum Power": "6221.4",
+        "Total Energy Consumed": "23259998.61"
+    },
+    "2/5/2020": {
+        "": "248",
+        "Date": "2/5/2020",
+        "Average Power": "7005.001794",
+        "Maximum Power": "9774.69",
+        "Minimum Power": "6238.76",
+        "Total Energy Consumed": "20104355.15"
+    },
+    "2/6/2020": {
+        "": "249",
+        "Date": "2/6/2020",
+        "Average Power": "7770.774696",
+        "Maximum Power": "12970.16",
+        "Minimum Power": "5513.02",
+        "Total Energy Consumed": "22271040.28"
+    },
+    "2/7/2020": {
+        "": "250",
+        "Date": "2/7/2020",
+        "Average Power": "7741.218541",
+        "Maximum Power": "12927.3",
+        "Minimum Power": "5666.2",
+        "Total Energy Consumed": "22170849.9"
+    },
+    "2/8/2020": {
+        "": "251",
+        "Date": "2/8/2020",
+        "Average Power": "7133.960049",
+        "Maximum Power": "11529.25",
+        "Minimum Power": "5814.7",
+        "Total Energy Consumed": "20467331.38"
+    },
+    "2/9/2020": {
+        "": "252",
+        "Date": "2/9/2020",
+        "Average Power": "7070.91623",
+        "Maximum Power": "11219.79",
+        "Minimum Power": "4239.08",
+        "Total Energy Consumed": "20350096.91"
+    },
+    "2/10/2020": {
+        "": "253",
+        "Date": "2/10/2020",
+        "Average Power": "7907.219168",
+        "Maximum Power": "14380.16",
+        "Minimum Power": "5638.2",
+        "Total Energy Consumed": "22701626.23"
+    },
+    "2/11/2020": {
+        "": "254",
+        "Date": "2/11/2020",
+        "Average Power": "8247.937874",
+        "Maximum Power": "14385.14",
+        "Minimum Power": "5749.12",
+        "Total Energy Consumed": "23704573.45"
+    },
+    "2/12/2020": {
+        "": "255",
+        "Date": "2/12/2020",
+        "Average Power": "8174.674416",
+        "Maximum Power": "18133.27",
+        "Minimum Power": "5846.01",
+        "Total Energy Consumed": "23436791.55"
+    },
+    "2/13/2020": {
+        "": "256",
+        "Date": "2/13/2020",
+        "Average Power": "8259.127036",
+        "Maximum Power": "16083.26",
+        "Minimum Power": "6221.67",
+        "Total Energy Consumed": "23711953.72"
+    },
+    "2/14/2020": {
+        "": "257",
+        "Date": "2/14/2020",
+        "Average Power": "8347.901913",
+        "Maximum Power": "14666.23",
+        "Minimum Power": "6150.76",
+        "Total Energy Consumed": "24000218.0"
+    },
+    "2/15/2020": {
+        "": "258",
+        "Date": "2/15/2020",
+        "Average Power": "7861.532598",
+        "Maximum Power": "12352.12",
+        "Minimum Power": "6340.11",
+        "Total Energy Consumed": "22570460.09"
+    },
+    "2/16/2020": {
+        "": "259",
+        "Date": "2/16/2020",
+        "Average Power": "7876.008508",
+        "Maximum Power": "11096.8",
+        "Minimum Power": "3024.07",
+        "Total Energy Consumed": "22596268.41"
+    },
+    "2/17/2020": {
+        "": "260",
+        "Date": "2/17/2020",
+        "Average Power": "8919.597543",
+        "Maximum Power": "14776.25",
+        "Minimum Power": "4944.76",
+        "Total Energy Consumed": "25634923.34"
+    },
+    "2/18/2020": {
+        "": "261",
+        "Date": "2/18/2020",
+        "Average Power": "9364.633049",
+        "Maximum Power": "15042.12",
+        "Minimum Power": "6549.51",
+        "Total Energy Consumed": "26904590.75"
+    },
+    "2/19/2020": {
+        "": "262",
+        "Date": "2/19/2020",
+        "Average Power": "9554.733637",
+        "Maximum Power": "16935.94",
+        "Minimum Power": "5375.7",
+        "Total Energy Consumed": "27450749.74"
+    },
+    "2/20/2020": {
+        "": "263",
+        "Date": "2/20/2020",
+        "Average Power": "9135.003849",
+        "Maximum Power": "14769.01",
+        "Minimum Power": "6286.12",
+        "Total Energy Consumed": "23778415.02"
+    },
+    "2/21/2020": {
+        "": "264",
+        "Date": "2/21/2020",
+        "Average Power": "8348.860854",
+        "Maximum Power": "17451.98",
+        "Minimum Power": "6286.12",
+        "Total Energy Consumed": "23961230.65"
+    },
+    "2/22/2020": {
+        "": "265",
+        "Date": "2/22/2020",
+        "Average Power": "7475.829561",
+        "Maximum Power": "11267.25",
+        "Minimum Power": "5217.7",
+        "Total Energy Consumed": "21470582.5"
+    },
+    "2/23/2020": {
+        "": "266",
+        "Date": "2/23/2020",
+        "Average Power": "7206.846446",
+        "Maximum Power": "10987.47",
+        "Minimum Power": "4090.23",
+        "Total Energy Consumed": "20683649.3"
+    },
+    "2/24/2020": {
+        "": "267",
+        "Date": "2/24/2020",
+        "Average Power": "9009.691882",
+        "Maximum Power": "14796.06",
+        "Minimum Power": "5968.49",
+        "Total Energy Consumed": "25857815.7"
+    },
+    "2/25/2020": {
+        "": "268",
+        "Date": "2/25/2020",
+        "Average Power": "8893.599871",
+        "Maximum Power": "14873.95",
+        "Minimum Power": "6231.81",
+        "Total Energy Consumed": "25462376.43"
+    },
+    "2/26/2020": {
+        "": "269",
+        "Date": "2/26/2020",
+        "Average Power": "8711.465496",
+        "Maximum Power": "14437.19",
+        "Minimum Power": "6260.87",
+        "Total Energy Consumed": "24932214.25"
+    },
+    "2/27/2020": {
+        "": "270",
+        "Date": "2/27/2020",
+        "Average Power": "8397.164194",
+        "Maximum Power": "15415.52",
+        "Minimum Power": "5764.77",
+        "Total Energy Consumed": "24125052.73"
+    },
+    "2/28/2020": {
+        "": "271",
+        "Date": "2/28/2020",
+        "Average Power": "8726.249885",
+        "Maximum Power": "14662.56",
+        "Minimum Power": "5452.14",
+        "Total Energy Consumed": "25070515.92"
+    },
+    "2/29/2020": {
+        "": "272",
+        "Date": "2/29/2020",
+        "Average Power": "7424.277128",
+        "Maximum Power": "10448.24",
+        "Minimum Power": "5311.88",
+        "Total Energy Consumed": "21300251.08"
+    },
+    "3/1/2020": {
+        "": "273",
+        "Date": "3/1/2020",
+        "Average Power": "7316.602322",
+        "Maximum Power": "11501.81",
+        "Minimum Power": "5113.29",
+        "Total Energy Consumed": "21013281.87"
+    },
+    "3/2/2020": {
+        "": "274",
+        "Date": "3/2/2020",
+        "Average Power": "9027.591753",
+        "Maximum Power": "15234.9",
+        "Minimum Power": "1484.64",
+        "Total Energy Consumed": "25845995.19"
+    },
+    "3/3/2020": {
+        "": "275",
+        "Date": "3/3/2020",
+        "Average Power": "8812.785831",
+        "Maximum Power": "15589.55",
+        "Minimum Power": "5501.75",
+        "Total Energy Consumed": "25283882.55"
+    },
+    "3/4/2020": {
+        "": "276",
+        "Date": "3/4/2020",
+        "Average Power": "8732.615769",
+        "Maximum Power": "19273.28",
+        "Minimum Power": "5851.63",
+        "Total Energy Consumed": "25036409.41"
+    },
+    "3/5/2020": {
+        "": "277",
+        "Date": "3/5/2020",
+        "Average Power": "8902.315678",
+        "Maximum Power": "15098.8",
+        "Minimum Power": "5851.63",
+        "Total Energy Consumed": "25540743.68"
+    },
+    "3/6/2020": {
+        "": "278",
+        "Date": "3/6/2020",
+        "Average Power": "8430.589316",
+        "Maximum Power": "14739.69",
+        "Minimum Power": "5851.63",
+        "Total Energy Consumed": "24162068.98"
+    },
+    "3/7/2020": {
+        "": "279",
+        "Date": "3/7/2020",
+        "Average Power": "7790.58866",
+        "Maximum Power": "11828.28",
+        "Minimum Power": "6253.22",
+        "Total Energy Consumed": "22382361.22"
+    },
+    "3/8/2020": {
+        "": "280",
+        "Date": "3/8/2020",
+        "Average Power": "7598.118531",
+        "Maximum Power": "10620.2",
+        "Minimum Power": "5276.64",
+        "Total Energy Consumed": "21821796.42"
+    },
+    "3/9/2020": {
+        "": "281",
+        "Date": "3/9/2020",
+        "Average Power": "9131.125063",
+        "Maximum Power": "15886.88",
+        "Minimum Power": "5568.42",
+        "Total Energy Consumed": "26078493.18"
+    },
+    "3/10/2020": {
+        "": "282",
+        "Date": "3/10/2020",
+        "Average Power": "8968.358363",
+        "Maximum Power": "15504.11",
+        "Minimum Power": "5972.72",
+        "Total Energy Consumed": "25694346.71"
+    },
+    "3/11/2020": {
+        "": "283",
+        "Date": "3/11/2020",
+        "Average Power": "8580.511875",
+        "Maximum Power": "14501.97",
+        "Minimum Power": "5980.19",
+        "Total Energy Consumed": "24574586.01"
+    },
+    "3/12/2020": {
+        "": "284",
+        "Date": "3/12/2020",
+        "Average Power": "8756.061028",
+        "Maximum Power": "15243.79",
+        "Minimum Power": "6231.21",
+        "Total Energy Consumed": "25121139.09"
+    },
+    "3/13/2020": {
+        "": "285",
+        "Date": "3/13/2020",
+        "Average Power": "7180.223509",
+        "Maximum Power": "11531.92",
+        "Minimum Power": "6231.21",
+        "Total Energy Consumed": "20628782.14"
+    },
+    "3/14/2020": {
+        "": "286",
+        "Date": "3/14/2020",
+        "Average Power": "7161.852125",
+        "Maximum Power": "10782.65",
+        "Minimum Power": "4723.8",
+        "Total Energy Consumed": "20590324.86"
+    },
+    "3/15/2020": {
+        "": "287",
+        "Date": "3/15/2020",
+        "Average Power": "3313.046089",
+        "Maximum Power": "7320.23",
+        "Minimum Power": "4723.8",
+        "Total Energy Consumed": "9538259.69"
+    },
+    "3/16/2020": {
+        "": "288",
+        "Date": "3/16/2020",
+        "Average Power": "101.3259275",
+        "Maximum Power": "7869.86",
+        "Minimum Power": "-1.81",
+        "Total Energy Consumed": "290602.76"
+    },
+    "3/17/2020": {
+        "": "289",
+        "Date": "3/17/2020",
+        "Average Power": "9355.749453",
+        "Maximum Power": "15704.58",
+        "Minimum Power": "4886.99",
+        "Total Energy Consumed": "26673241.69"
+    },
+    "3/18/2020": {
+        "": "290",
+        "Date": "3/18/2020",
+        "Average Power": "9533.804146",
+        "Maximum Power": "14849.41",
+        "Minimum Power": "6698.07",
+        "Total Energy Consumed": "27362017.9"
+    },
+    "3/19/2020": {
+        "": "291",
+        "Date": "3/19/2020",
+        "Average Power": "10010.35729",
+        "Maximum Power": "16183.55",
+        "Minimum Power": "6698.07",
+        "Total Energy Consumed": "27978948.62"
+    },
+    "3/20/2020": {
+        "": "292",
+        "Date": "3/20/2020",
+        "Average Power": "9584.003694",
+        "Maximum Power": "15781.31",
+        "Minimum Power": "6549.66",
+        "Total Energy Consumed": "27601930.64"
+    },
+    "3/21/2020": {
+        "": "293",
+        "Date": "3/21/2020",
+        "Average Power": "8327.061226",
+        "Maximum Power": "15326.15",
+        "Minimum Power": "5243.53",
+        "Total Energy Consumed": "23981936.33"
+    },
+    "3/22/2020": {
+        "": "294",
+        "Date": "3/22/2020",
+        "Average Power": "8230.204884",
+        "Maximum Power": "12568.15",
+        "Minimum Power": "5220.89",
+        "Total Energy Consumed": "23694759.86"
+    },
+    "3/23/2020": {
+        "": "295",
+        "Date": "3/23/2020",
+        "Average Power": "8500.732192",
+        "Maximum Power": "13611.65",
+        "Minimum Power": "5265.48",
+        "Total Energy Consumed": "24473607.98"
+    },
+    "3/24/2020": {
+        "": "296",
+        "Date": "3/24/2020",
+        "Average Power": "8694.739566",
+        "Maximum Power": "15323.99",
+        "Minimum Power": "5510.67",
+        "Total Energy Consumed": "25040849.95"
+    },
+    "3/25/2020": {
+        "": "297",
+        "Date": "3/25/2020",
+        "Average Power": "8149.178337",
+        "Maximum Power": "11942.68",
+        "Minimum Power": "5119.72",
+        "Total Energy Consumed": "23469633.61"
+    },
+    "3/26/2020": {
+        "": "298",
+        "Date": "3/26/2020",
+        "Average Power": "7789.956723",
+        "Maximum Power": "11084.62",
+        "Minimum Power": "5358.01",
+        "Total Energy Consumed": "22201376.66"
+    },
+    "3/27/2020": {
+        "": "299",
+        "Date": "3/27/2020",
+        "Average Power": "8012.980868",
+        "Maximum Power": "12144.19",
+        "Minimum Power": "6337.4",
+        "Total Energy Consumed": "23077384.9"
+    },
+    "3/28/2020": {
+        "": "300",
+        "Date": "3/28/2020",
+        "Average Power": "7790.967437",
+        "Maximum Power": "10403.16",
+        "Minimum Power": "6225.59",
+        "Total Energy Consumed": "22437986.22"
+    },
+    "3/29/2020": {
+        "": "301",
+        "Date": "3/29/2020",
+        "Average Power": "7884.081309",
+        "Maximum Power": "10960.47",
+        "Minimum Power": "5399.39",
+        "Total Energy Consumed": "22698270.09"
+    },
+    "3/30/2020": {
+        "": "302",
+        "Date": "3/30/2020",
+        "Average Power": "8698.665297",
+        "Maximum Power": "12135.94",
+        "Minimum Power": "4989.35",
+        "Total Energy Consumed": "25026060.06"
+    },
+    "3/31/2020": {
+        "": "303",
+        "Date": "3/31/2020",
+        "Average Power": "8726.274601",
+        "Maximum Power": "12920.95",
+        "Minimum Power": "6534.93",
+        "Total Energy Consumed": "25131670.85"
+    },
+    "4/1/2020": {
+        "": "304",
+        "Date": "4/1/2020",
+        "Average Power": "8784.540427",
+        "Maximum Power": "12981.36",
+        "Minimum Power": "6070.05",
+        "Total Energy Consumed": "25299476.43"
+    },
+    "4/2/2020": {
+        "": "305",
+        "Date": "4/2/2020",
+        "Average Power": "8875.06405",
+        "Maximum Power": "13127.41",
+        "Minimum Power": "6229.89",
+        "Total Energy Consumed": "24672678.06"
+    },
+    "4/3/2020": {
+        "": "306",
+        "Date": "4/3/2020",
+        "Average Power": "9366.180868",
+        "Maximum Power": "13239.69",
+        "Minimum Power": "6232.83",
+        "Total Energy Consumed": "26974600.9"
+    },
+    "4/4/2020": {
+        "": "307",
+        "Date": "4/4/2020",
+        "Average Power": "8897.372917",
+        "Maximum Power": "11554.48",
+        "Minimum Power": "6720.5",
+        "Total Energy Consumed": "25624434.0"
+    },
+    "4/5/2020": {
+        "": "308",
+        "Date": "4/5/2020",
+        "Average Power": "8816.384448",
+        "Maximum Power": "12930.12",
+        "Minimum Power": "5404.7",
+        "Total Energy Consumed": "25391187.21"
+    },
+    "4/6/2020": {
+        "": "309",
+        "Date": "4/6/2020",
+        "Average Power": "9756.958722",
+        "Maximum Power": "15988.57",
+        "Minimum Power": "410.58",
+        "Total Energy Consumed": "28100041.12"
+    },
+    "4/7/2020": {
+        "": "310",
+        "Date": "4/7/2020",
+        "Average Power": "10196.84236",
+        "Maximum Power": "16045.24",
+        "Minimum Power": "6685.56",
+        "Total Energy Consumed": "29336315.47"
+    },
+    "4/8/2020": {
+        "": "311",
+        "Date": "4/8/2020",
+        "Average Power": "9661.710553",
+        "Maximum Power": "15062.41",
+        "Minimum Power": "6876.55",
+        "Total Energy Consumed": "27777417.84"
+    },
+    "4/9/2020": {
+        "": "312",
+        "Date": "4/9/2020",
+        "Average Power": "9625.188585",
+        "Maximum Power": "13498.12",
+        "Minimum Power": "5450.86",
+        "Total Energy Consumed": "27691667.56"
+    },
+    "4/10/2020": {
+        "": "313",
+        "Date": "4/10/2020",
+        "Average Power": "9702.829382",
+        "Maximum Power": "15140.89",
+        "Minimum Power": "6546.57",
+        "Total Energy Consumed": "27924742.96"
+    },
+    "4/11/2020": {
+        "": "314",
+        "Date": "4/11/2020",
+        "Average Power": "9537.722645",
+        "Maximum Power": "12539.48",
+        "Minimum Power": "5530.76",
+        "Total Energy Consumed": "27440028.05"
+    },
+    "4/12/2020": {
+        "": "315",
+        "Date": "4/12/2020",
+        "Average Power": "9796.310452",
+        "Maximum Power": "13376.61",
+        "Minimum Power": "7126.54",
+        "Total Energy Consumed": "28174188.86"
+    },
+    "4/13/2020": {
+        "": "316",
+        "Date": "4/13/2020",
+        "Average Power": "9474.477291",
+        "Maximum Power": "14096.06",
+        "Minimum Power": "6141.85",
+        "Total Energy Consumed": "27210698.78"
+    },
+    "4/14/2020": {
+        "": "317",
+        "Date": "4/14/2020",
+        "Average Power": "10099.46851",
+        "Maximum Power": "17179.97",
+        "Minimum Power": "6680.11",
+        "Total Energy Consumed": "29025872.5"
+    },
+    "4/15/2020": {
+        "": "318",
+        "Date": "4/15/2020",
+        "Average Power": "9586.722554",
+        "Maximum Power": "14619.41",
+        "Minimum Power": "4645.63",
+        "Total Energy Consumed": "27590587.51"
+    },
+    "4/16/2020": {
+        "": "319",
+        "Date": "4/16/2020",
+        "Average Power": "9586.325363",
+        "Maximum Power": "15981.33",
+        "Minimum Power": "5449.07",
+        "Total Energy Consumed": "27560685.42"
+    },
+    "4/17/2020": {
+        "": "320",
+        "Date": "4/17/2020",
+        "Average Power": "9816.654025",
+        "Maximum Power": "13861.23",
+        "Minimum Power": "6449.84",
+        "Total Energy Consumed": "28242513.63"
+    },
+    "4/18/2020": {
+        "": "321",
+        "Date": "4/18/2020",
+        "Average Power": "10267.27576",
+        "Maximum Power": "13489.86",
+        "Minimum Power": "6612.11",
+        "Total Energy Consumed": "29549219.64"
+    },
+    "4/19/2020": {
+        "": "322",
+        "Date": "4/19/2020",
+        "Average Power": "9702.453602",
+        "Maximum Power": "13442.87",
+        "Minimum Power": "6518.84",
+        "Total Energy Consumed": "27904256.56"
+    },
+    "4/20/2020": {
+        "": "323",
+        "Date": "4/20/2020",
+        "Average Power": "9885.110272",
+        "Maximum Power": "16353.02",
+        "Minimum Power": "5986.17",
+        "Total Energy Consumed": "28370266.48"
+    },
+    "4/21/2020": {
+        "": "324",
+        "Date": "4/21/2020",
+        "Average Power": "10045.48478",
+        "Maximum Power": "16614.77",
+        "Minimum Power": "4327.24",
+        "Total Energy Consumed": "28870723.26"
+    },
+    "4/22/2020": {
+        "": "325",
+        "Date": "4/22/2020",
+        "Average Power": "10741.20871",
+        "Maximum Power": "15223.32",
+        "Minimum Power": "6813.2",
+        "Total Energy Consumed": "30913198.67"
+    },
+    "4/23/2020": {
+        "": "326",
+        "Date": "4/23/2020",
+        "Average Power": "10640.05068",
+        "Maximum Power": "14510.32",
+        "Minimum Power": "4631.46",
+        "Total Energy Consumed": "30622065.85"
+    },
+    "4/24/2020": {
+        "": "327",
+        "Date": "4/24/2020",
+        "Average Power": "10428.58914",
+        "Maximum Power": "14276.96",
+        "Minimum Power": "6064.69",
+        "Total Energy Consumed": "29971765.18"
+    },
+    "4/25/2020": {
+        "": "328",
+        "Date": "4/25/2020",
+        "Average Power": "10346.08781",
+        "Maximum Power": "14470.07",
+        "Minimum Power": "6678.52",
+        "Total Energy Consumed": "29765694.62"
+    },
+    "4/26/2020": {
+        "": "329",
+        "Date": "4/26/2020",
+        "Average Power": "9330.388244",
+        "Maximum Power": "13342.71",
+        "Minimum Power": "7145.0",
+        "Total Energy Consumed": "26834196.59"
+    },
+    "4/27/2020": {
+        "": "330",
+        "Date": "4/27/2020",
+        "Average Power": "10466.16466",
+        "Maximum Power": "14306.02",
+        "Minimum Power": "6854.25",
+        "Total Energy Consumed": "30121621.89"
+    },
+    "4/28/2020": {
+        "": "331",
+        "Date": "4/28/2020",
+        "Average Power": "10161.80692",
+        "Maximum Power": "13689.62",
+        "Minimum Power": "7069.68",
+        "Total Energy Consumed": "29225356.71"
+    },
+    "4/29/2020": {
+        "": "332",
+        "Date": "4/29/2020",
+        "Average Power": "9919.993031",
+        "Maximum Power": "14489.47",
+        "Minimum Power": "7108.09",
+        "Total Energy Consumed": "28539819.95"
+    },
+    "4/30/2020": {
+        "": "333",
+        "Date": "4/30/2020",
+        "Average Power": "9880.55265",
+        "Maximum Power": "14155.21",
+        "Minimum Power": "7045.47",
+        "Total Energy Consumed": "28416469.42"
+    },
+    "5/1/2020": {
+        "": "334",
+        "Date": "5/1/2020",
+        "Average Power": "9338.691254",
+        "Maximum Power": "12299.2",
+        "Minimum Power": "7191.94",
+        "Total Energy Consumed": "26876753.43"
+    },
+    "5/2/2020": {
+        "": "335",
+        "Date": "5/2/2020",
+        "Average Power": "10135.69907",
+        "Maximum Power": "12547.02",
+        "Minimum Power": "7682.4",
+        "Total Energy Consumed": "29170541.93"
+    },
+    "5/3/2020": {
+        "": "336",
+        "Date": "5/3/2020",
+        "Average Power": "9609.123022",
+        "Maximum Power": "12542.84",
+        "Minimum Power": "5563.53",
+        "Total Energy Consumed": "27635837.81"
+    },
+    "5/4/2020": {
+        "": "337",
+        "Date": "5/4/2020",
+        "Average Power": "10593.51037",
+        "Maximum Power": "15264.17",
+        "Minimum Power": "3953.57",
+        "Total Energy Consumed": "30255065.63"
+    },
+    "5/5/2020": {
+        "": "338",
+        "Date": "5/5/2020",
+        "Average Power": "9979.425268",
+        "Maximum Power": "14151.85",
+        "Minimum Power": "5461.69",
+        "Total Energy Consumed": "28720785.92"
+    },
+    "5/6/2020": {
+        "": "339",
+        "Date": "5/6/2020",
+        "Average Power": "10411.69911",
+        "Maximum Power": "14815.5",
+        "Minimum Power": "7337.52",
+        "Total Energy Consumed": "29933634.95"
+    },
+    "5/7/2020": {
+        "": "340",
+        "Date": "5/7/2020",
+        "Average Power": "10438.52794",
+        "Maximum Power": "15303.16",
+        "Minimum Power": "5832.16",
+        "Total Energy Consumed": "29321824.99"
+    },
+    "5/8/2020": {
+        "": "341",
+        "Date": "5/8/2020",
+        "Average Power": "10375.72371",
+        "Maximum Power": "13816.57",
+        "Minimum Power": "5897.05",
+        "Total Energy Consumed": "29819829.94"
+    },
+    "5/9/2020": {
+        "": "342",
+        "Date": "5/9/2020",
+        "Average Power": "10117.24932",
+        "Maximum Power": "12788.44",
+        "Minimum Power": "6235.82",
+        "Total Energy Consumed": "27235635.18"
+    },
+    "2/18/2021": {
+        "": "343",
+        "Date": "2/18/2021",
+        "Average Power": "8912.360135",
+        "Maximum Power": "10752.03",
+        "Minimum Power": "6533.37",
+        "Total Energy Consumed": "5926719.49"
+    },
+    "2/19/2021": {
+        "": "344",
+        "Date": "2/19/2021",
+        "Average Power": "9458.099804",
+        "Maximum Power": "12132.86",
+        "Minimum Power": "6769.0",
+        "Total Energy Consumed": "27031249.24"
+    },
+    "2/20/2021": {
+        "": "345",
+        "Date": "2/20/2021",
+        "Average Power": "9298.815823",
+        "Maximum Power": "10869.73",
+        "Minimum Power": "7245.56",
+        "Total Energy Consumed": "26734095.49"
+    },
+    "2/21/2021": {
+        "": "346",
+        "Date": "2/21/2021",
+        "Average Power": "9278.595639",
+        "Maximum Power": "10282.09",
+        "Minimum Power": "7361.94",
+        "Total Energy Consumed": "26722355.44"
+    },
+    "2/22/2021": {
+        "": "347",
+        "Date": "2/22/2021",
+        "Average Power": "9310.432708",
+        "Maximum Power": "11346.8",
+        "Minimum Power": "7426.57",
+        "Total Energy Consumed": "26683700.14"
+    },
+    "2/23/2021": {
+        "": "348",
+        "Date": "2/23/2021",
+        "Average Power": "8978.050657",
+        "Maximum Power": "11677.82",
+        "Minimum Power": "7076.47",
+        "Total Energy Consumed": "25811895.64"
+    },
+    "2/24/2021": {
+        "": "349",
+        "Date": "2/24/2021",
+        "Average Power": "8731.065979",
+        "Maximum Power": "10210.74",
+        "Minimum Power": "7607.46",
+        "Total Energy Consumed": "25145470.02"
+    },
+    "2/25/2021": {
+        "": "350",
+        "Date": "2/25/2021",
+        "Average Power": "8965.173868",
+        "Maximum Power": "11297.61",
+        "Minimum Power": "7731.14",
+        "Total Energy Consumed": "25819700.74"
+    },
+    "2/26/2021": {
+        "": "351",
+        "Date": "2/26/2021",
+        "Average Power": "8768.468569",
+        "Maximum Power": "10529.78",
+        "Minimum Power": "7731.14",
+        "Total Energy Consumed": "25130430.92"
+    },
+    "2/27/2021": {
+        "": "352",
+        "Date": "2/27/2021",
+        "Average Power": "9218.920049",
+        "Maximum Power": "9644.86",
+        "Minimum Power": "7678.14",
+        "Total Energy Consumed": "26485957.3"
+    },
+    "2/28/2021": {
+        "": "353",
+        "Date": "2/28/2021",
+        "Average Power": "9424.439847",
+        "Maximum Power": "9866.52",
+        "Minimum Power": "7753.02",
+        "Total Energy Consumed": "27114113.44"
+    },
+    "3/1/2021": {
+        "": "354",
+        "Date": "3/1/2021",
+        "Average Power": "9169.918456",
+        "Maximum Power": "11378.12",
+        "Minimum Power": "7758.94",
+        "Total Energy Consumed": "26372685.48"
+    },
+    "3/2/2021": {
+        "": "355",
+        "Date": "3/2/2021",
+        "Average Power": "8915.009205",
+        "Maximum Power": "10491.68",
+        "Minimum Power": "7249.95",
+        "Total Energy Consumed": "25443436.27"
+    },
+    "3/3/2021": {
+        "": "356",
+        "Date": "3/3/2021",
+        "Average Power": "9399.914787",
+        "Maximum Power": "12744.71",
+        "Minimum Power": "7311.9",
+        "Total Energy Consumed": "25981364.47"
+    },
+    "3/4/2021": {
+        "": "357",
+        "Date": "3/4/2021",
+        "Average Power": "9541.299367",
+        "Maximum Power": "11831.97",
+        "Minimum Power": "7106.44",
+        "Total Energy Consumed": "27450318.28"
+    },
+    "3/5/2021": {
+        "": "358",
+        "Date": "3/5/2021",
+        "Average Power": "9485.941239",
+        "Maximum Power": "11835.1",
+        "Minimum Power": "7478.1",
+        "Total Energy Consumed": "25194659.93"
+    },
+    "3/6/2021": {
+        "": "359",
+        "Date": "3/6/2021",
+        "Average Power": "9229.576908",
+        "Maximum Power": "11392.07",
+        "Minimum Power": "7443.67",
+        "Total Energy Consumed": "26535033.61"
+    },
+    "3/7/2021": {
+        "": "360",
+        "Date": "3/7/2021",
+        "Average Power": "9049.140962",
+        "Maximum Power": "10346.35",
+        "Minimum Power": "7274.54",
+        "Total Energy Consumed": "26061525.97"
+    },
+    "3/8/2021": {
+        "": "361",
+        "Date": "3/8/2021",
+        "Average Power": "9719.498898",
+        "Maximum Power": "12501.67",
+        "Minimum Power": "7546.58",
+        "Total Energy Consumed": "27865803.34"
+    },
+    "3/9/2021": {
+        "": "362",
+        "Date": "3/9/2021",
+        "Average Power": "9756.396311",
+        "Maximum Power": "12914.95",
+        "Minimum Power": "7419.75",
+        "Total Energy Consumed": "28059395.79"
+    },
+    "3/10/2021": {
+        "": "363",
+        "Date": "3/10/2021",
+        "Average Power": "9614.665635",
+        "Maximum Power": "12075.47",
+        "Minimum Power": "5582.14",
+        "Total Energy Consumed": "27642163.7"
+    },
+    "3/11/2021": {
+        "": "364",
+        "Date": "3/11/2021",
+        "Average Power": "9505.496725",
+        "Maximum Power": "12013.09",
+        "Minimum Power": "7070.77",
+        "Total Energy Consumed": "26815006.26"
+    },
+    "3/12/2021": {
+        "": "365",
+        "Date": "3/12/2021",
+        "Average Power": "9263.602617",
+        "Maximum Power": "11428.53",
+        "Minimum Power": "6997.1",
+        "Total Energy Consumed": "26512430.69"
+    },
+    "3/13/2021": {
+        "": "366",
+        "Date": "3/13/2021",
+        "Average Power": "8968.939931",
+        "Maximum Power": "10839.79",
+        "Minimum Power": "7093.37",
+        "Total Energy Consumed": "25830547.0"
+    },
+    "3/14/2021": {
+        "": "367",
+        "Date": "3/14/2021",
+        "Average Power": "8986.818955",
+        "Maximum Power": "9682.59",
+        "Minimum Power": "7066.54",
+        "Total Energy Consumed": "25882038.59"
+    },
+    "3/15/2021": {
+        "": "368",
+        "Date": "3/15/2021",
+        "Average Power": "9440.82699",
+        "Maximum Power": "11629.75",
+        "Minimum Power": "7228.01",
+        "Total Energy Consumed": "27161259.25"
+    },
+    "3/16/2021": {
+        "": "369",
+        "Date": "3/16/2021",
+        "Average Power": "9519.519226",
+        "Maximum Power": "11827.61",
+        "Minimum Power": "7310.11",
+        "Total Energy Consumed": "27416215.37"
+    },
+    "3/17/2021": {
+        "": "370",
+        "Date": "3/17/2021",
+        "Average Power": "9525.023465",
+        "Maximum Power": "11574.1",
+        "Minimum Power": "7224.41",
+        "Total Energy Consumed": "27403492.51"
+    },
+    "3/18/2021": {
+        "": "371",
+        "Date": "3/18/2021",
+        "Average Power": "9410.142219",
+        "Maximum Power": "11335.13",
+        "Minimum Power": "7064.82",
+        "Total Energy Consumed": "27101209.59"
+    },
+    "3/19/2021": {
+        "": "372",
+        "Date": "3/19/2021",
+        "Average Power": "9462.192309",
+        "Maximum Power": "11930.74",
+        "Minimum Power": "5508.09",
+        "Total Energy Consumed": "27090256.58"
+    },
+    "3/20/2021": {
+        "": "373",
+        "Date": "3/20/2021",
+        "Average Power": "9043.520136",
+        "Maximum Power": "10248.1",
+        "Minimum Power": "7106.69",
+        "Total Energy Consumed": "25945859.27"
+    },
+    "3/21/2021": {
+        "": "374",
+        "Date": "3/21/2021",
+        "Average Power": "8822.270896",
+        "Maximum Power": "9675.98",
+        "Minimum Power": "7290.05",
+        "Total Energy Consumed": "25408140.18"
+    },
+    "3/22/2021": {
+        "": "375",
+        "Date": "3/22/2021",
+        "Average Power": "9201.223972",
+        "Maximum Power": "11943.42",
+        "Minimum Power": "7544.13",
+        "Total Energy Consumed": "26499525.04"
+    },
+    "3/23/2021": {
+        "": "376",
+        "Date": "3/23/2021",
+        "Average Power": "8561.798864",
+        "Maximum Power": "10139.24",
+        "Minimum Power": "7454.85",
+        "Total Energy Consumed": "24649418.93"
+    },
+    "3/24/2021": {
+        "": "377",
+        "Date": "3/24/2021",
+        "Average Power": "9356.316807",
+        "Maximum Power": "11746.69",
+        "Minimum Power": "5456.61",
+        "Total Energy Consumed": "26927479.77"
+    },
+    "3/25/2021": {
+        "": "378",
+        "Date": "3/25/2021",
+        "Average Power": "9700.606757",
+        "Maximum Power": "11873.39",
+        "Minimum Power": "6352.02",
+        "Total Energy Consumed": "27433315.91"
+    },
+    "3/26/2021": {
+        "": "379",
+        "Date": "3/26/2021",
+        "Average Power": "9724.924081",
+        "Maximum Power": "11765.77",
+        "Minimum Power": "7429.88",
+        "Total Energy Consumed": "27978606.58"
+    },
+    "3/27/2021": {
+        "": "380",
+        "Date": "3/27/2021",
+        "Average Power": "9323.829417",
+        "Maximum Power": "10635.53",
+        "Minimum Power": "7379.44",
+        "Total Energy Consumed": "26852628.72"
+    },
+    "3/28/2021": {
+        "": "381",
+        "Date": "3/28/2021",
+        "Average Power": "9353.790424",
+        "Maximum Power": "11031.49",
+        "Minimum Power": "5286.92",
+        "Total Energy Consumed": "26910855.05"
+    },
+    "3/29/2021": {
+        "": "382",
+        "Date": "3/29/2021",
+        "Average Power": "9801.982468",
+        "Maximum Power": "11211.59",
+        "Minimum Power": "7703.56",
+        "Total Energy Consumed": "26886837.91"
+    },
+    "3/30/2021": {
+        "": "383",
+        "Date": "3/30/2021",
+        "Average Power": "10017.32417",
+        "Maximum Power": "12793.8",
+        "Minimum Power": "7813.83",
+        "Total Energy Consumed": "28819841.64"
+    },
+    "3/31/2021": {
+        "": "384",
+        "Date": "3/31/2021",
+        "Average Power": "9634.898514",
+        "Maximum Power": "13130.72",
+        "Minimum Power": "7455.55",
+        "Total Energy Consumed": "27690698.33"
+    },
+    "4/1/2021": {
+        "": "385",
+        "Date": "4/1/2021",
+        "Average Power": "9929.498163",
+        "Maximum Power": "13246.16",
+        "Minimum Power": "7452.01",
+        "Total Energy Consumed": "28596954.71"
+    },
+    "4/2/2021": {
+        "": "386",
+        "Date": "4/2/2021",
+        "Average Power": "9997.655677",
+        "Maximum Power": "12360.82",
+        "Minimum Power": "7312.82",
+        "Total Energy Consumed": "28793248.35"
+    },
+    "4/3/2021": {
+        "": "387",
+        "Date": "4/3/2021",
+        "Average Power": "9252.023501",
+        "Maximum Power": "10714.06",
+        "Minimum Power": "6064.36",
+        "Total Energy Consumed": "26562559.47"
+    },
+    "4/4/2021": {
+        "": "388",
+        "Date": "4/4/2021",
+        "Average Power": "9290.026069",
+        "Maximum Power": "10534.24",
+        "Minimum Power": "5321.25",
+        "Total Energy Consumed": "26755275.08"
+    },
+    "4/5/2021": {
+        "": "389",
+        "Date": "4/5/2021",
+        "Average Power": "9848.679785",
+        "Maximum Power": "12268.46",
+        "Minimum Power": "6731.19",
+        "Total Energy Consumed": "28364197.78"
+    },
+    "4/6/2021": {
+        "": "390",
+        "Date": "4/6/2021",
+        "Average Power": "9777.310149",
+        "Maximum Power": "13022.39",
+        "Minimum Power": "8335.98",
+        "Total Energy Consumed": "28139098.61"
+    },
+    "4/7/2021": {
+        "": "391",
+        "Date": "4/7/2021",
+        "Average Power": "9694.74975",
+        "Maximum Power": "11779.01",
+        "Minimum Power": "7551.99",
+        "Total Energy Consumed": "27920879.28"
+    },
+    "4/8/2021": {
+        "": "392",
+        "Date": "4/8/2021",
+        "Average Power": "9535.455913",
+        "Maximum Power": "11726.57",
+        "Minimum Power": "8245.3",
+        "Total Energy Consumed": "27462113.03"
+    },
+    "4/9/2021": {
+        "": "393",
+        "Date": "4/9/2021",
+        "Average Power": "9406.345383",
+        "Maximum Power": "11529.57",
+        "Minimum Power": "8248.28",
+        "Total Energy Consumed": "26892741.45"
+    },
+    "4/10/2021": {
+        "": "394",
+        "Date": "4/10/2021",
+        "Average Power": "9098.974322",
+        "Maximum Power": "9850.7",
+        "Minimum Power": "4341.76",
+        "Total Energy Consumed": "26168650.15"
+    },
+    "4/11/2021": {
+        "": "395",
+        "Date": "4/11/2021",
+        "Average Power": "9212.05625",
+        "Maximum Power": "10741.11",
+        "Minimum Power": "6577.98",
+        "Total Energy Consumed": "26530722.0"
+    },
+    "4/12/2021": {
+        "": "396",
+        "Date": "4/12/2021",
+        "Average Power": "9718.43584",
+        "Maximum Power": "11620.33",
+        "Minimum Power": "8439.91",
+        "Total Energy Consumed": "27989095.22"
+    },
+    "4/13/2021": {
+        "": "397",
+        "Date": "4/13/2021",
+        "Average Power": "9463.982392",
+        "Maximum Power": "11668.96",
+        "Minimum Power": "8298.59",
+        "Total Energy Consumed": "27256269.29"
+    },
+    "4/14/2021": {
+        "": "398",
+        "Date": "4/14/2021",
+        "Average Power": "9156.956378",
+        "Maximum Power": "10933.95",
+        "Minimum Power": "2963.9",
+        "Total Energy Consumed": "26372034.37"
+    },
+    "4/15/2021": {
+        "": "399",
+        "Date": "4/15/2021",
+        "Average Power": "9098.292578",
+        "Maximum Power": "10430.7",
+        "Minimum Power": "6567.37",
+        "Total Energy Consumed": "26184886.04"
+    },
+    "4/16/2021": {
+        "": "400",
+        "Date": "4/16/2021",
+        "Average Power": "9143.047507",
+        "Maximum Power": "11083.8",
+        "Minimum Power": "4025.72",
+        "Total Energy Consumed": "26331976.82"
+    },
+    "4/17/2021": {
+        "": "401",
+        "Date": "4/17/2021",
+        "Average Power": "8689.749923",
+        "Maximum Power": "9376.69",
+        "Minimum Power": "3555.58",
+        "Total Energy Consumed": "24983031.03"
+    },
+    "4/18/2021": {
+        "": "402",
+        "Date": "4/18/2021",
+        "Average Power": "8864.929896",
+        "Maximum Power": "9627.15",
+        "Minimum Power": "8240.08",
+        "Total Energy Consumed": "25477808.52"
+    },
+    "4/19/2021": {
+        "": "403",
+        "Date": "4/19/2021",
+        "Average Power": "9510.104252",
+        "Maximum Power": "12287.03",
+        "Minimum Power": "8456.28",
+        "Total Energy Consumed": "27351059.83"
+    },
+    "4/20/2021": {
+        "": "404",
+        "Date": "4/20/2021",
+        "Average Power": "9279.906473",
+        "Maximum Power": "11274.29",
+        "Minimum Power": "8304.47",
+        "Total Energy Consumed": "26679731.11"
+    },
+    "4/21/2021": {
+        "": "405",
+        "Date": "4/21/2021",
+        "Average Power": "9248.616495",
+        "Maximum Power": "12563.41",
+        "Minimum Power": "8275.41",
+        "Total Energy Consumed": "26626766.89"
+    },
+    "4/22/2021": {
+        "": "406",
+        "Date": "4/22/2021",
+        "Average Power": "9215.423865",
+        "Maximum Power": "11348.17",
+        "Minimum Power": "8371.0",
+        "Total Energy Consumed": "26466697.34"
+    },
+    "4/23/2021": {
+        "": "407",
+        "Date": "4/23/2021",
+        "Average Power": "9198.354126",
+        "Maximum Power": "11891.65",
+        "Minimum Power": "6354.2",
+        "Total Energy Consumed": "26463664.82"
+    },
+    "4/24/2021": {
+        "": "408",
+        "Date": "4/24/2021",
+        "Average Power": "8855.636417",
+        "Maximum Power": "9876.52",
+        "Minimum Power": "5929.18",
+        "Total Energy Consumed": "25504232.88"
+    },
+    "4/25/2021": {
+        "": "409",
+        "Date": "4/25/2021",
+        "Average Power": "9357.500149",
+        "Maximum Power": "10884.46",
+        "Minimum Power": "6046.78",
+        "Total Energy Consumed": "26930885.43"
+    },
+    "4/26/2021": {
+        "": "410",
+        "Date": "4/26/2021",
+        "Average Power": "9534.229528",
+        "Maximum Power": "12170.49",
+        "Minimum Power": "8256.6",
+        "Total Energy Consumed": "27458581.04"
+    },
+    "4/27/2021": {
+        "": "411",
+        "Date": "4/27/2021",
+        "Average Power": "9286.728265",
+        "Maximum Power": "11598.56",
+        "Minimum Power": "6535.5",
+        "Total Energy Consumed": "26652910.12"
+    },
+    "4/28/2021": {
+        "": "412",
+        "Date": "4/28/2021",
+        "Average Power": "9226.601767",
+        "Maximum Power": "11434.42",
+        "Minimum Power": "8394.61",
+        "Total Energy Consumed": "26572613.09"
+    },
+    "4/29/2021": {
+        "": "413",
+        "Date": "4/29/2021",
+        "Average Power": "9504.126545",
+        "Maximum Power": "12314.03",
+        "Minimum Power": "6855.43",
+        "Total Energy Consumed": "27371884.45"
+    },
+    "4/30/2021": {
+        "": "414",
+        "Date": "4/30/2021",
+        "Average Power": "9453.657264",
+        "Maximum Power": "11350.72",
+        "Minimum Power": "8304.87",
+        "Total Energy Consumed": "27226532.92"
+    },
+    "5/1/2021": {
+        "": "415",
+        "Date": "5/1/2021",
+        "Average Power": "8918.90067",
+        "Maximum Power": "10080.48",
+        "Minimum Power": "6099.06",
+        "Total Energy Consumed": "25677515.03"
+    },
+    "5/2/2021": {
+        "": "416",
+        "Date": "5/2/2021",
+        "Average Power": "9199.950688",
+        "Maximum Power": "10762.64",
+        "Minimum Power": "8337.87",
+        "Total Energy Consumed": "26495857.98"
+    },
+    "5/3/2021": {
+        "": "417",
+        "Date": "5/3/2021",
+        "Average Power": "9389.464536",
+        "Maximum Power": "11748.2",
+        "Minimum Power": "8337.87",
+        "Total Energy Consumed": "27032268.4"
+    },
+    "5/4/2021": {
+        "": "418",
+        "Date": "5/4/2021",
+        "Average Power": "9445.810111",
+        "Maximum Power": "12303.49",
+        "Minimum Power": "8410.22",
+        "Total Energy Consumed": "27203933.12"
+    },
+    "5/5/2021": {
+        "": "419",
+        "Date": "5/5/2021",
+        "Average Power": "9346.466611",
+        "Maximum Power": "11472.45",
+        "Minimum Power": "8044.0",
+        "Total Energy Consumed": "26917823.84"
+    },
+    "5/6/2021": {
+        "": "420",
+        "Date": "5/6/2021",
+        "Average Power": "9609.529378",
+        "Maximum Power": "11907.28",
+        "Minimum Power": "8414.56",
+        "Total Energy Consumed": "27675444.61"
+    },
+    "5/7/2021": {
+        "": "421",
+        "Date": "5/7/2021",
+        "Average Power": "9538.024483",
+        "Maximum Power": "9877.26",
+        "Minimum Power": "9363.41",
+        "Total Energy Consumed": "27469510.51"
+    },
+    "5/8/2021": {
+        "": "422",
+        "Date": "5/8/2021",
+        "Average Power": "9542.06",
+        "Maximum Power": "9542.06",
+        "Minimum Power": "9542.06",
+        "Total Energy Consumed": "27481132.8"
+    },
+    "5/9/2021": {
+        "": "423",
+        "Date": "5/9/2021",
+        "Average Power": "9542.06",
+        "Maximum Power": "9542.06",
+        "Minimum Power": "9542.06",
+        "Total Energy Consumed": "27481132.8"
+    },
+    "5/10/2021": {
+        "": "424",
+        "Date": "5/10/2021",
+        "Average Power": "9542.06",
+        "Maximum Power": "9542.06",
+        "Minimum Power": "9542.06",
+        "Total Energy Consumed": "27423880.44"
+    },
+    "5/11/2021": {
+        "": "425",
+        "Date": "5/11/2021",
+        "Average Power": "9608.244522",
+        "Maximum Power": "10029.82",
+        "Minimum Power": "6946.79",
+        "Total Energy Consumed": "27642919.49"
+    },
+    "5/12/2021": {
+        "": "426",
+        "Date": "5/12/2021",
+        "Average Power": "9693.68",
+        "Maximum Power": "9693.68",
+        "Minimum Power": "9693.68",
+        "Total Energy Consumed": "27917798.4"
+    },
+    "5/13/2021": {
+        "": "427",
+        "Date": "5/13/2021",
+        "Average Power": "9693.68",
+        "Maximum Power": "9693.68",
+        "Minimum Power": "9693.68",
+        "Total Energy Consumed": "27917798.4"
+    },
+    "5/14/2021": {
+        "": "428",
+        "Date": "5/14/2021",
+        "Average Power": "9693.68",
+        "Maximum Power": "9693.68",
+        "Minimum Power": "9693.68",
+        "Total Energy Consumed": "27917798.4"
+    },
+    "5/15/2021": {
+        "": "429",
+        "Date": "5/15/2021",
+        "Average Power": "9693.68",
+        "Maximum Power": "9693.68",
+        "Minimum Power": "9693.68",
+        "Total Energy Consumed": "27917798.4"
+    },
+    "5/16/2021": {
+        "": "430",
+        "Date": "5/16/2021",
+        "Average Power": "4979.837694",
+        "Maximum Power": "9693.68",
+        "Minimum Power": "9693.68",
+        "Total Energy Consumed": "14336952.72"
+    },
+    "5/17/2021": {
+        "": "431",
+        "Date": "5/17/2021",
+        "Average Power": "6783.251372",
+        "Maximum Power": "9469.6",
+        "Minimum Power": "9693.68",
+        "Total Energy Consumed": "19535763.95"
+    },
+    "5/18/2021": {
+        "": "432",
+        "Date": "5/18/2021",
+        "Average Power": "9915.572352",
+        "Maximum Power": "12704.46",
+        "Minimum Power": "6459.57",
+        "Total Energy Consumed": "28537017.23"
+    },
+    "5/19/2021": {
+        "": "433",
+        "Date": "5/19/2021",
+        "Average Power": "9813.431633",
+        "Maximum Power": "12666.56",
+        "Minimum Power": "8414.61",
+        "Total Energy Consumed": "28252869.67"
+    },
+    "5/20/2021": {
+        "": "434",
+        "Date": "5/20/2021",
+        "Average Power": "9458.546807",
+        "Maximum Power": "11667.53",
+        "Minimum Power": "7444.61",
+        "Total Energy Consumed": "27250073.35"
+    },
+    "5/21/2021": {
+        "": "435",
+        "Date": "5/21/2021",
+        "Average Power": "9755.477787",
+        "Maximum Power": "12607.69",
+        "Minimum Power": "8434.4",
+        "Total Energy Consumed": "27461669.97"
+    },
+    "5/22/2021": {
+        "": "436",
+        "Date": "5/22/2021",
+        "Average Power": "9314.080205",
+        "Maximum Power": "11748.93",
+        "Minimum Power": "5952.37",
+        "Total Energy Consumed": "26815236.91"
+    },
+    "5/23/2021": {
+        "": "437",
+        "Date": "5/23/2021",
+        "Average Power": "9329.690771",
+        "Maximum Power": "9824.01",
+        "Minimum Power": "6283.66",
+        "Total Energy Consumed": "26850850.04"
+    },
+    "5/24/2021": {
+        "": "438",
+        "Date": "5/24/2021",
+        "Average Power": "10115.07582",
+        "Maximum Power": "14030.32",
+        "Minimum Power": "6575.15",
+        "Total Energy Consumed": "28180601.24"
+    },
+    "5/25/2021": {
+        "": "439",
+        "Date": "5/25/2021",
+        "Average Power": "10049.53498",
+        "Maximum Power": "12536.03",
+        "Minimum Power": "8700.41",
+        "Total Energy Consumed": "26842307.92"
+    },
+    "5/26/2021": {
+        "": "440",
+        "Date": "5/26/2021",
+        "Average Power": "10192.74613",
+        "Maximum Power": "14118.2",
+        "Minimum Power": "8722.97",
+        "Total Energy Consumed": "29324530.61"
+    },
+    "5/27/2021": {
+        "": "441",
+        "Date": "5/27/2021",
+        "Average Power": "10086.9161",
+        "Maximum Power": "13040.44",
+        "Minimum Power": "8758.74",
+        "Total Energy Consumed": "29050318.36"
+    },
+    "5/28/2021": {
+        "": "442",
+        "Date": "5/28/2021",
+        "Average Power": "10400.94059",
+        "Maximum Power": "13981.95",
+        "Minimum Power": "8778.64",
+        "Total Energy Consumed": "29954708.9"
+    },
+    "5/29/2021": {
+        "": "443",
+        "Date": "5/29/2021",
+        "Average Power": "10486.92349",
+        "Maximum Power": "12190.25",
+        "Minimum Power": "7991.04",
+        "Total Energy Consumed": "30202339.64"
+    },
+    "5/30/2021": {
+        "": "444",
+        "Date": "5/30/2021",
+        "Average Power": "10296.78892",
+        "Maximum Power": "12122.75",
+        "Minimum Power": "7019.54",
+        "Total Energy Consumed": "29438519.53"
+    },
+    "5/31/2021": {
+        "": "445",
+        "Date": "5/31/2021",
+        "Average Power": "10175.35373",
+        "Maximum Power": "13239.76",
+        "Minimum Power": "6450.42",
+        "Total Energy Consumed": "29264317.33"
+    },
+    "6/1/2021": {
+        "": "446",
+        "Date": "6/1/2021",
+        "Average Power": "10227.33973",
+        "Maximum Power": "13316.75",
+        "Minimum Power": "8829.58",
+        "Total Energy Consumed": "29454738.41"
+    },
+    "6/2/2021": {
+        "": "447",
+        "Date": "6/2/2021",
+        "Average Power": "10109.00928",
+        "Maximum Power": "12992.13",
+        "Minimum Power": "9110.39",
+        "Total Energy Consumed": "29083619.69"
+    },
+    "6/3/2021": {
+        "": "448",
+        "Date": "6/3/2021",
+        "Average Power": "10075.23915",
+        "Maximum Power": "13067.05",
+        "Minimum Power": "8914.02",
+        "Total Energy Consumed": "29016688.76"
+    },
+    "6/4/2021": {
+        "": "449",
+        "Date": "6/4/2021",
+        "Average Power": "10035.09552",
+        "Maximum Power": "13373.55",
+        "Minimum Power": "8683.7",
+        "Total Energy Consumed": "28901075.11"
+    },
+    "6/5/2021": {
+        "": "450",
+        "Date": "6/5/2021",
+        "Average Power": "9535.065764",
+        "Maximum Power": "10762.14",
+        "Minimum Power": "8765.44",
+        "Total Energy Consumed": "27460989.4"
+    },
+    "6/6/2021": {
+        "": "451",
+        "Date": "6/6/2021",
+        "Average Power": "9462.28742",
+        "Maximum Power": "10007.3",
+        "Minimum Power": "6159.74",
+        "Total Energy Consumed": "27251387.77"
+    },
+    "6/7/2021": {
+        "": "452",
+        "Date": "6/7/2021",
+        "Average Power": "10039.10714",
+        "Maximum Power": "13207.68",
+        "Minimum Power": "8563.4",
+        "Total Energy Consumed": "28912628.57"
+    },
+    "6/8/2021": {
+        "": "453",
+        "Date": "6/8/2021",
+        "Average Power": "10009.95176",
+        "Maximum Power": "12905.8",
+        "Minimum Power": "8941.21",
+        "Total Energy Consumed": "28828661.07"
+    },
+    "6/9/2021": {
+        "": "454",
+        "Date": "6/9/2021",
+        "Average Power": "10233.23606",
+        "Maximum Power": "13777.91",
+        "Minimum Power": "8808.24",
+        "Total Energy Consumed": "29471719.85"
+    },
+    "6/10/2021": {
+        "": "455",
+        "Date": "6/10/2021",
+        "Average Power": "10258.34023",
+        "Maximum Power": "13754.36",
+        "Minimum Power": "6948.04",
+        "Total Energy Consumed": "29544019.87"
+    },
+    "6/11/2021": {
+        "": "456",
+        "Date": "6/11/2021",
+        "Average Power": "10348.51291",
+        "Maximum Power": "13911.97",
+        "Minimum Power": "8814.55",
+        "Total Energy Consumed": "29803717.17"
+    },
+    "6/12/2021": {
+        "": "457",
+        "Date": "6/12/2021",
+        "Average Power": "9780.820441",
+        "Maximum Power": "11178.67",
+        "Minimum Power": "8837.17",
+        "Total Energy Consumed": "28168762.87"
+    },
+    "6/13/2021": {
+        "": "458",
+        "Date": "6/13/2021",
+        "Average Power": "9704.587861",
+        "Maximum Power": "11319.6",
+        "Minimum Power": "8650.56",
+        "Total Energy Consumed": "27900690.1"
+    },
+    "6/14/2021": {
+        "": "459",
+        "Date": "6/14/2021",
+        "Average Power": "10301.69686",
+        "Maximum Power": "13357.44",
+        "Minimum Power": "9370.46",
+        "Total Energy Consumed": "29596775.08"
+    },
+    "6/15/2021": {
+        "": "460",
+        "Date": "6/15/2021",
+        "Average Power": "9985.810837",
+        "Maximum Power": "13567.06",
+        "Minimum Power": "3386.53",
+        "Total Energy Consumed": "28739163.59"
+    },
+    "6/16/2021": {
+        "": "461",
+        "Date": "6/16/2021",
+        "Average Power": "10632.97008",
+        "Maximum Power": "13308.52",
+        "Minimum Power": "6256.63",
+        "Total Energy Consumed": "30516624.14"
+    },
+    "6/17/2021": {
+        "": "462",
+        "Date": "6/17/2021",
+        "Average Power": "10613.42503",
+        "Maximum Power": "13962.54",
+        "Minimum Power": "8570.4",
+        "Total Energy Consumed": "30556050.65"
+    },
+    "6/18/2021": {
+        "": "463",
+        "Date": "6/18/2021",
+        "Average Power": "10459.95506",
+        "Maximum Power": "13151.79",
+        "Minimum Power": "9371.54",
+        "Total Energy Consumed": "30124670.58"
+    },
+    "6/19/2021": {
+        "": "464",
+        "Date": "6/19/2021",
+        "Average Power": "9869.252399",
+        "Maximum Power": "11065.59",
+        "Minimum Power": "8830.28",
+        "Total Energy Consumed": "28423446.91"
+    },
+    "6/20/2021": {
+        "": "465",
+        "Date": "6/20/2021",
+        "Average Power": "9657.856162",
+        "Maximum Power": "10724.16",
+        "Minimum Power": "6393.74",
+        "Total Energy Consumed": "27804967.89"
+    },
+    "6/21/2021": {
+        "": "466",
+        "Date": "6/21/2021",
+        "Average Power": "10140.8633",
+        "Maximum Power": "12907.58",
+        "Minimum Power": "8792.96",
+        "Total Energy Consumed": "29205686.31"
+    },
+    "6/22/2021": {
+        "": "467",
+        "Date": "6/22/2021",
+        "Average Power": "10439.09665",
+        "Maximum Power": "13315.1",
+        "Minimum Power": "8480.59",
+        "Total Energy Consumed": "30064598.35"
+    },
+    "6/23/2021": {
+        "": "468",
+        "Date": "6/23/2021",
+        "Average Power": "10754.05008",
+        "Maximum Power": "13981.42",
+        "Minimum Power": "6840.59",
+        "Total Energy Consumed": "30960910.19"
+    },
+    "6/24/2021": {
+        "": "469",
+        "Date": "6/24/2021",
+        "Average Power": "10485.31068",
+        "Maximum Power": "13238.81",
+        "Minimum Power": "8208.86",
+        "Total Energy Consumed": "30197694.76"
+    },
+    "6/25/2021": {
+        "": "470",
+        "Date": "6/25/2021",
+        "Average Power": "10314.24676",
+        "Maximum Power": "13071.33",
+        "Minimum Power": "5857.07",
+        "Total Energy Consumed": "29705030.67"
+    },
+    "6/26/2021": {
+        "": "471",
+        "Date": "6/26/2021",
+        "Average Power": "9930.260615",
+        "Maximum Power": "11054.8",
+        "Minimum Power": "8168.37",
+        "Total Energy Consumed": "28599150.57"
+    },
+    "6/27/2021": {
+        "": "472",
+        "Date": "6/27/2021",
+        "Average Power": "9907.260056",
+        "Maximum Power": "12170.04",
+        "Minimum Power": "8630.74",
+        "Total Energy Consumed": "28523001.7"
+    },
+    "6/28/2021": {
+        "": "473",
+        "Date": "6/28/2021",
+        "Average Power": "10409.90549",
+        "Maximum Power": "13849.72",
+        "Minimum Power": "8240.19",
+        "Total Energy Consumed": "29980527.82"
+    },
+    "6/29/2021": {
+        "": "474",
+        "Date": "6/29/2021",
+        "Average Power": "10423.22045",
+        "Maximum Power": "12922.26",
+        "Minimum Power": "8132.63",
+        "Total Energy Consumed": "29414328.12"
+    },
+    "6/30/2021": {
+        "": "475",
+        "Date": "6/30/2021",
+        "Average Power": "10495.87685",
+        "Maximum Power": "13485.55",
+        "Minimum Power": "8422.77",
+        "Total Energy Consumed": "30186141.81"
+    },
+    "7/1/2021": {
+        "": "476",
+        "Date": "7/1/2021",
+        "Average Power": "10377.93603",
+        "Maximum Power": "14378.35",
+        "Minimum Power": "5926.35",
+        "Total Energy Consumed": "29846944.01"
+    },
+    "7/2/2021": {
+        "": "477",
+        "Date": "7/2/2021",
+        "Average Power": "10220.58092",
+        "Maximum Power": "13313.71",
+        "Minimum Power": "4808.41",
+        "Total Energy Consumed": "29271743.75"
+    },
+    "7/3/2021": {
+        "": "478",
+        "Date": "7/3/2021",
+        "Average Power": "10004.86509",
+        "Maximum Power": "11440.98",
+        "Minimum Power": "8189.15",
+        "Total Energy Consumed": "28814011.46"
+    },
+    "7/4/2021": {
+        "": "479",
+        "Date": "7/4/2021",
+        "Average Power": "9870.928875",
+        "Maximum Power": "10276.21",
+        "Minimum Power": "8116.57",
+        "Total Energy Consumed": "28428275.16"
+    },
+    "7/5/2021": {
+        "": "480",
+        "Date": "7/5/2021",
+        "Average Power": "10516.06685",
+        "Maximum Power": "14508.62",
+        "Minimum Power": "8286.29",
+        "Total Energy Consumed": "30286272.52"
+    },
+    "7/6/2021": {
+        "": "481",
+        "Date": "7/6/2021",
+        "Average Power": "10217.68099",
+        "Maximum Power": "14288.41",
+        "Minimum Power": "8629.0",
+        "Total Energy Consumed": "29416703.58"
+    },
+    "7/7/2021": {
+        "": "482",
+        "Date": "7/7/2021",
+        "Average Power": "10192.7899",
+        "Maximum Power": "13239.65",
+        "Minimum Power": "8047.45",
+        "Total Energy Consumed": "29324656.54"
+    },
+    "7/8/2021": {
+        "": "483",
+        "Date": "7/8/2021",
+        "Average Power": "10333.94143",
+        "Maximum Power": "12881.4",
+        "Minimum Power": "5556.28",
+        "Total Energy Consumed": "29751417.38"
+    },
+    "7/9/2021": {
+        "": "484",
+        "Date": "7/9/2021",
+        "Average Power": "10305.08486",
+        "Maximum Power": "13924.55",
+        "Minimum Power": "8849.22",
+        "Total Energy Consumed": "29678644.41"
+    },
+    "7/10/2021": {
+        "": "485",
+        "Date": "7/10/2021",
+        "Average Power": "9851.712776",
+        "Maximum Power": "11230.87",
+        "Minimum Power": "4109.96",
+        "Total Energy Consumed": "28323674.23"
+    },
+    "7/11/2021": {
+        "": "486",
+        "Date": "7/11/2021",
+        "Average Power": "9852.197508",
+        "Maximum Power": "11090.36",
+        "Minimum Power": "7990.06",
+        "Total Energy Consumed": "28344772.23"
+    },
+    "7/12/2021": {
+        "": "487",
+        "Date": "7/12/2021",
+        "Average Power": "9807.083812",
+        "Maximum Power": "12388.4",
+        "Minimum Power": "6453.01",
+        "Total Energy Consumed": "21869796.9"
+    },
+    "7/13/2021": {
+        "": "488",
+        "Date": "7/13/2021",
+        "Average Power": "10338.53987",
+        "Maximum Power": "13169.96",
+        "Minimum Power": "8361.07",
+        "Total Energy Consumed": "29743979.2"
+    },
+    "7/14/2021": {
+        "": "489",
+        "Date": "7/14/2021",
+        "Average Power": "10327.57148",
+        "Maximum Power": "13291.45",
+        "Minimum Power": "5980.53",
+        "Total Energy Consumed": "29733078.29"
+    },
+    "7/15/2021": {
+        "": "490",
+        "Date": "7/15/2021",
+        "Average Power": "10388.77206",
+        "Maximum Power": "13263.34",
+        "Minimum Power": "6922.11",
+        "Total Energy Consumed": "29919663.53"
+    },
+    "7/16/2021": {
+        "": "491",
+        "Date": "7/16/2021",
+        "Average Power": "10366.7315",
+        "Maximum Power": "14140.44",
+        "Minimum Power": "7109.03",
+        "Total Energy Consumed": "29856186.72"
+    },
+    "7/17/2021": {
+        "": "492",
+        "Date": "7/17/2021",
+        "Average Power": "9966.157935",
+        "Maximum Power": "11293.34",
+        "Minimum Power": "7434.25",
+        "Total Energy Consumed": "28672636.38"
+    },
+    "7/18/2021": {
+        "": "493",
+        "Date": "7/18/2021",
+        "Average Power": "9919.434503",
+        "Maximum Power": "10996.3",
+        "Minimum Power": "3822.89",
+        "Total Energy Consumed": "28567971.37"
+    },
+    "7/19/2021": {
+        "": "494",
+        "Date": "7/19/2021",
+        "Average Power": "10034.65223",
+        "Maximum Power": "12356.33",
+        "Minimum Power": "7363.89",
+        "Total Energy Consumed": "28899798.41"
+    },
+    "7/20/2021": {
+        "": "495",
+        "Date": "7/20/2021",
+        "Average Power": "9832.244227",
+        "Maximum Power": "10778.75",
+        "Minimum Power": "7373.77",
+        "Total Energy Consumed": "28307031.13"
+    },
+    "7/21/2021": {
+        "": "496",
+        "Date": "7/21/2021",
+        "Average Power": "9874.971607",
+        "Maximum Power": "10970.32",
+        "Minimum Power": "7357.12",
+        "Total Energy Consumed": "28449793.2"
+    },
+    "7/22/2021": {
+        "": "497",
+        "Date": "7/22/2021",
+        "Average Power": "10378.03513",
+        "Maximum Power": "12051.48",
+        "Minimum Power": "6812.57",
+        "Total Energy Consumed": "29888741.16"
+    },
+    "7/23/2021": {
+        "": "498",
+        "Date": "7/23/2021",
+        "Average Power": "10202.41455",
+        "Maximum Power": "12343.29",
+        "Minimum Power": "8754.47",
+        "Total Energy Consumed": "29372751.48"
+    },
+    "7/24/2021": {
+        "": "499",
+        "Date": "7/24/2021",
+        "Average Power": "9766.350604",
+        "Maximum Power": "12448.67",
+        "Minimum Power": "8376.63",
+        "Total Energy Consumed": "28127089.74"
+    },
+    "7/25/2021": {
+        "": "500",
+        "Date": "7/25/2021",
+        "Average Power": "10259.64978",
+        "Maximum Power": "12082.42",
+        "Minimum Power": "8111.5",
+        "Total Energy Consumed": "29547791.36"
+    },
+    "7/26/2021": {
+        "": "501",
+        "Date": "7/26/2021",
+        "Average Power": "10454.11855",
+        "Maximum Power": "14101.42",
+        "Minimum Power": "8052.87",
+        "Total Energy Consumed": "30107861.42"
+    },
+    "7/27/2021": {
+        "": "502",
+        "Date": "7/27/2021",
+        "Average Power": "10305.04808",
+        "Maximum Power": "13866.16",
+        "Minimum Power": "6889.45",
+        "Total Energy Consumed": "29678538.47"
+    },
+    "7/28/2021": {
+        "": "503",
+        "Date": "7/28/2021",
+        "Average Power": "10268.42399",
+        "Maximum Power": "13041.52",
+        "Minimum Power": "6968.79",
+        "Total Energy Consumed": "29573061.09"
+    },
+    "7/29/2021": {
+        "": "504",
+        "Date": "7/29/2021",
+        "Average Power": "10394.29518",
+        "Maximum Power": "13179.25",
+        "Minimum Power": "6983.41",
+        "Total Energy Consumed": "29831627.18"
+    },
+    "7/30/2021": {
+        "": "505",
+        "Date": "7/30/2021",
+        "Average Power": "10343.71873",
+        "Maximum Power": "13118.77",
+        "Minimum Power": "6156.08",
+        "Total Energy Consumed": "29665785.31"
+    },
+    "7/31/2021": {
+        "": "506",
+        "Date": "7/31/2021",
+        "Average Power": "9880.589527",
+        "Maximum Power": "11235.4",
+        "Minimum Power": "5995.07",
+        "Total Energy Consumed": "28426456.07"
+    },
+    "8/1/2021": {
+        "": "507",
+        "Date": "8/1/2021",
+        "Average Power": "9759.930753",
+        "Maximum Power": "10740.22",
+        "Minimum Power": "6934.07",
+        "Total Energy Consumed": "28108600.57"
+    },
+    "8/2/2021": {
+        "": "508",
+        "Date": "8/2/2021",
+        "Average Power": "10036.48061",
+        "Maximum Power": "12148.21",
+        "Minimum Power": "3279.42",
+        "Total Energy Consumed": "28905064.16"
+    },
+    "8/3/2021": {
+        "": "509",
+        "Date": "8/3/2021",
+        "Average Power": "10205.2868",
+        "Maximum Power": "12774.14",
+        "Minimum Power": "7232.27",
+        "Total Energy Consumed": "29391225.97"
+    },
+    "8/4/2021": {
+        "": "510",
+        "Date": "8/4/2021",
+        "Average Power": "10264.91019",
+        "Maximum Power": "12930.74",
+        "Minimum Power": "7707.81",
+        "Total Energy Consumed": "29491086.97"
+    },
+    "8/5/2021": {
+        "": "511",
+        "Date": "8/5/2021",
+        "Average Power": "10247.02182",
+        "Maximum Power": "12969.94",
+        "Minimum Power": "7267.0",
+        "Total Energy Consumed": "29511422.84"
+    },
+    "8/6/2021": {
+        "": "512",
+        "Date": "8/6/2021",
+        "Average Power": "10107.28188",
+        "Maximum Power": "13957.74",
+        "Minimum Power": "7207.07",
+        "Total Energy Consumed": "29108971.81"
+    },
+    "8/7/2021": {
+        "": "513",
+        "Date": "8/7/2021",
+        "Average Power": "9973.300021",
+        "Maximum Power": "11543.52",
+        "Minimum Power": "7650.67",
+        "Total Energy Consumed": "28723104.06"
+    },
+    "8/8/2021": {
+        "": "514",
+        "Date": "8/8/2021",
+        "Average Power": "10329.55865",
+        "Maximum Power": "11903.63",
+        "Minimum Power": "5454.36",
+        "Total Energy Consumed": "29749128.9"
+    },
+    "8/9/2021": {
+        "": "515",
+        "Date": "8/9/2021",
+        "Average Power": "10521.92573",
+        "Maximum Power": "13405.38",
+        "Minimum Power": "6169.26",
+        "Total Energy Consumed": "30292624.19"
+    },
+    "8/10/2021": {
+        "": "516",
+        "Date": "8/10/2021",
+        "Average Power": "10245.76309",
+        "Maximum Power": "13013.25",
+        "Minimum Power": "4391.85",
+        "Total Energy Consumed": "29507797.69"
+    },
+    "8/11/2021": {
+        "": "517",
+        "Date": "8/11/2021",
+        "Average Power": "10118.50111",
+        "Maximum Power": "12582.46",
+        "Minimum Power": "8922.92",
+        "Total Energy Consumed": "17383584.9"
+    }
+}
